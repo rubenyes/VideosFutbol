@@ -1,5 +1,6 @@
 package com.ruben.videosfutbol;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import org.jsoup.Jsoup;
@@ -12,8 +13,15 @@ import org.jsoup.select.Elements;
 
 /**
  * Esta clase contendra los datos detallados de cada partido. Y un atributo con su correspondiente PartidoPreview.
+ * 
+ * DEBERIA IMPLEMENTENTAR EL Parceable que tarda mucho menos:
+ * http://www.developerphil.com/parcelable-vs-serializable/
+ * http://elbauldelprogramador.com/adapter-personalizado-en-android/
+ * http://stackoverflow.com/questions/2139134/how-to-send-an-object-from-one-android-activity-to-another-using-intents
+ * http://www.javacodegeeks.com/2014/01/android-tutorial-two-methods-of-passing-object-by-intent-serializableparcelable.html
  */
-public class Partido{
+public class Partido implements Serializable{
+	
 	private PartidoPreview ppre;
 	
     private String id;

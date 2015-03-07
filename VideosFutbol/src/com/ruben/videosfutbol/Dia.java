@@ -27,26 +27,32 @@ public class Dia {
      private ArrayList<PartidoPreview> inglaterra = new ArrayList<PartidoPreview>();
      private ArrayList<PartidoPreview> italia = new ArrayList<PartidoPreview>();
      
-    /**
+     //Creamos este array de ArrayList auxiliar para no tener que repetir codigo, y poder acceder a las diferentes listas con un unico for.
+     @SuppressWarnings("unchecked")
+     private ArrayList<PartidoPreview>[] partidos = new ArrayList[5];
+     
+     private int partidosTotales;
+     
+     
+	/**
      * De momento esto funciona porque solo hay 3 dias, ayer(-1), hoy(0), y mañana(1)
      * asi que numDia valdra: -1,0,1.
      * @throws IOException 
      */
     public Dia(int numDia) throws IOException{
     	this.numDia = numDia;
-    	extraerFixtures();
-    }
-    
-    public void extraerFixtures() throws IOException{                      
-    	//Creamos este array de ArrayList auxiliar para no tener que repetir codigo, y poder acceder a las diferentes listas con un unico for.
-        @SuppressWarnings("unchecked")
-        ArrayList<PartidoPreview>[] partidos = new ArrayList[5];
+    	this.partidosTotales = 0;
+    	
         partidos[0]=alemania;
         partidos[1]=espanya;
         partidos[2]=francia;
         partidos[3]=inglaterra;
         partidos[4]=italia;
         
+    	extraerFixtures();
+    }
+    
+    public void extraerFixtures() throws IOException{        
         Document doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
         
         Element data = doc.getElementById("score-data");
@@ -119,18 +125,32 @@ public class Dia {
             	PartidoPreview pp = null;
             	
             	if(e.hasClass("sched")) 
-            		pp = new PartidoPreviewSched(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z));
+            		pp = new PartidoPreviewSched(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z), e.text());
             	else if(e.hasClass("live"))
             		pp = new PartidoPreviewLive(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z), e.text());
             	else if(e.hasClass("fin"))
             		pp = new PartidoPreviewFin(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z), e.text());
             	
             	partidos[i].add(pp);
-            }
-            
-        }
-        
+            	partidosTotales++;
+            }            
+        }                
     }
+    
+
+    public int getPartidosTotales() {
+		return partidosTotales;
+	}
+
+	public String[] getLigas() {
+		return ligas;
+	}
+
+	public ArrayList<PartidoPreview>[] getPartidos() {
+		return partidos;
+	}
+    
+    
     
     /**
      * RESUMEN PARTIDO:     http://d.mismarcadores.com/x/feed/d_su_hrXAK3Wc_es_1

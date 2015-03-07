@@ -6,7 +6,7 @@ package com.ruben.videosfutbol;
  * Para los datos ya mas detallados del partido tenemos la clase Partido a la que le pasaremos como parametro
  * su PartidoPreview correspondiente.
  */
-public class PartidoPreview {
+public abstract class PartidoPreview {
 
 	protected int numDia; //esto sera -1,0,1 dependiendo si el partido es de ayer,hoy,mañana
 	protected String id;
@@ -41,4 +41,7 @@ public class PartidoPreview {
 	public String getVisit() {
 		return visit;
 	}
+	
+	public abstract String getHoraOminuto();
+	public abstract String getMarcador();
 }

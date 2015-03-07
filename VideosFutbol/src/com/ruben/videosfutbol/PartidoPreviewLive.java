@@ -12,5 +12,14 @@ public class PartidoPreviewLive extends PartidoPreview{
 		this.marcador = marcador;
 	}
 
+	@Override
+	public String getHoraOminuto(){
+		return minuto;
+	}
+	
 
+	@Override
+	public String getMarcador(){
+		return marcador;
+	}
 }

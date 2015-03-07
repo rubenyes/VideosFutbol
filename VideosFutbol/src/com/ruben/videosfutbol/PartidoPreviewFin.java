@@ -10,5 +10,14 @@ public class PartidoPreviewFin extends PartidoPreview{
 		this.hora = hora;
 		this.resultado = resultado;
 	}
-
+	
+	@Override
+	public String getHoraOminuto(){
+		return hora;
+	}
+	
+	@Override
+	public String getMarcador(){
+		return resultado;
+	}
 }
