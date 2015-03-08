@@ -22,6 +22,8 @@ public class MainActivity extends SherlockFragmentActivity {
 
 		mPager = (ViewPager)findViewById(R.id.pager);
 		mPager.setAdapter(mAdapter);
+		mPager.setOffscreenPageLimit(2); //Esto es para que retenga en memoria 2 paginas a cada lado de la actual, como tenemos 3
+									     //paginas siempre tendremos las 3 en memoria.
 
 		mIndicator = (TitlePageIndicator)findViewById(R.id.indicator);
 		int initialPage = mAdapter.getCount() / 2; //vamos a empezar en la pestanya del medio, es decir, en la de HOY

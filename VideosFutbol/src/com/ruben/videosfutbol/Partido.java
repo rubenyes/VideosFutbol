@@ -113,14 +113,21 @@ public class Partido{
         
         //Aqui estaran todos los "detail" pero olo utilizare los de la cabecera.
         Elements details = main.getElementsByClass("detail"); 
-        
+               
+        Element tabContent = main.getElementById("detail-tab-content");  //esto es un paso auxiliar para comprobar que no sea null      
         //Aqui solo estan los "detail" de las acciones de cada tiempo, asi que su longitud sera 0 (no empezado), 1 (1ra parte), 2 (2da parte).
-        Elements detailsAcciones = main.getElementById("detail-tab-content").getElementsByClass("detail");
+        Elements detailsAcciones = null;
         
-        int sizeCabeceras = details.size()-detailsAcciones.size();
+        int sizeCabeceras = details.size();
+        
+        //Comprobamos si ya ha empezado el partido, si ya hay acciones.
+        if(tabContent!=null){
+	        detailsAcciones = tabContent.getElementsByClass("detail");
+	        sizeCabeceras = details.size()-detailsAcciones.size();
+        }
         
         if(sizeCabeceras==1) this.fechaYhora = details.get(0).text();
-        else if(sizeCabeceras==1){
+        else if(sizeCabeceras==2){
             this.idaVuelta = details.get(0).text();
             this.fechaYhora = details.get(1).text();
         }
@@ -134,15 +141,19 @@ public class Partido{
                 this.idaVuelta = details.get(2).text();
                 this.fechaYhora = details.get(3).text();
             }
-                                               
-            Elements tiempo1 = detailsAcciones.get(0).children();
-            tiempo1.remove(tiempo1.size()-1); //borramos el ultimo elemento ya que este no es una accion.
-            for(Element e : tiempo1) acciones1tiempo.add(e.child(1).className()+"\t"+e.text());
             
-            if(detailsAcciones.size()>1){ //comprobamos si ya se esta jugando o se ha jugado el segundo tiempo.
-                Elements tiempo2 = detailsAcciones.get(1).children();
-                tiempo2.remove(tiempo2.size()-1); //borramos el ultimo elemento ya que este no es una accion.
-                for(Element e : tiempo2) acciones2tiempo.add(e.child(1).className()+"\t"+e.text());
+            //ESTA COMPROBACION CREO QUE SE PUEDE QUITAR, PUES SI ENTRA AQUI ES QUE SIZECABECERAES ES MAYOR A 2
+            //Y ENTONCES SERA QUE YA HA EMPEZADO EL PARTIDO.
+            if(tabContent!=null){
+	            Elements tiempo1 = detailsAcciones.get(0).children();
+	            tiempo1.remove(tiempo1.size()-1); //borramos el ultimo elemento ya que este no es una accion.
+	            for(Element e : tiempo1) acciones1tiempo.add(e.child(1).className()+"\t"+e.text());
+	            
+	            if(detailsAcciones.size()>1){ //comprobamos si ya se esta jugando o se ha jugado el segundo tiempo.
+	                Elements tiempo2 = detailsAcciones.get(1).children();
+	                tiempo2.remove(tiempo2.size()-1); //borramos el ultimo elemento ya que este no es una accion.
+	                for(Element e : tiempo2) acciones2tiempo.add(e.child(1).className()+"\t"+e.text());
+	            }
             }
             
             Elements marcadores = main.getElementsByTag("b");

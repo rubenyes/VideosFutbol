@@ -37,7 +37,7 @@ public class MyFragment extends SherlockFragment {
 		int numDia = position - 1;
 		
 		fragment.dia = new Dia(fragment, numDia);		
-		
+		System.out.println("fragmento creado del dia: "+numDia);
 		return fragment;
 	}
 		

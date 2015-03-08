@@ -53,7 +53,9 @@ public class Dia {
         partidos[3]=inglaterra;
         partidos[4]=italia;
         
+        System.out.println("antes de crear tarea");
     	new MyTask().execute(); //Para conectarse a internet hay que utilizar una AsyncTask
+        System.out.println("despues de crear tarea");
     }
     
     private class MyTask extends AsyncTask<Void, Void, Void>{
@@ -61,9 +63,9 @@ public class Dia {
 		@Override
 		protected Void doInBackground(Void... params){
 			try {
-				System.out.println("dentro de tarea sin iniciar");
-		        doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
-				System.out.println("dentro de tarea justo al acabar");
+				System.out.println("dentro de tarea sin iniciar conexion");
+		        doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).ignoreContentType(true).get(); //el ignoreContentType(true) lo hace un poco mas rapido.
+				System.out.println("dentro de tarea justo al acabar conexion");
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
@@ -72,33 +74,35 @@ public class Dia {
 		
 		@Override
 		protected void onPostExecute(Void param) {
+			System.out.println("entro al postexecute");
 			extraerFixtures();
-			
+			System.out.println("data SIN actualizada");			
 		    fragment.anyadirDatosAlListAdapter();
-			System.out.println("data actualizada");
+			System.out.println("fin post - data actualizada");
 		}
     }
         
     public void extraerFixtures(){
     	//Document doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
-        
-        Element data = doc.getElementById("score-data");
-        List<TextNode> hijosTexto = data.textNodes();
-        Elements lineas = data.children();
-        Elements h4s = lineas.select("h4");
+    	System.out.println("entro a fix");
+        Element data = doc.getElementById("score-data"); System.out.println("fin e.data");
+        List<TextNode> hijosTexto = data.textNodes(); System.out.println("fin e.hijos");
+        Elements lineas = data.children(); System.out.println("fin e.lineas");
+        //Esto es mucho mas eficiente que hacer lineas.select("h4"), y un pelin mas eficiente que data.getElementsByTag("h4")
+        Elements h4s = data.select("h4"); System.out.println("fin e.h4");
         
         int j=0; //pongo el contador fuera para que el programa sea mas eficiente y no vuelva a recorrer el array desde la primera pos, sino desde 
                  //la ultima comprobada, para que esto funcione hay que poner las ligas en orden alfabetico en el array "ligas".
                 
-        for(int i=0; i<ligas.length; i++){
+        for(int i=0; i<ligas.length; i++){ System.out.println("inciio liga");
         	//Primero vamos a sacar todos los datos por separado y luego crearemos los PartidoPreview
         	ArrayList<String> nombresEquipos = new ArrayList<String>();
         	ArrayList<String> horasPartidos = new ArrayList<String>();
         	ArrayList<String> idsPartidos = new ArrayList<String>();
         	
         	
-            Element liga = h4s.select(":matchesOwn("+ligas[i]+"$)").first();
-            int pos = h4s.indexOf(liga);
+            Element liga = h4s.select(":matchesOwn("+ligas[i]+"$)").first(); System.out.println("fin e.liga");
+            int pos = h4s.indexOf(liga); System.out.println("fin indexof");
             
             //Si no encontramos el titulo de la liga, es que este dia no hay partidos de ella, y pasamos a la siguiente liga.
             if(pos==-1) continue;
@@ -110,7 +114,7 @@ public class Dia {
             //Estos indices se usan para sacar los nombres de los quipos ya que su texto no esta encapsulado dentro de ninguna etiqueta.
             int indexIniTextos = h4s.get(pos).siblingIndex();
             int indexFinTextos = h4s.get(pos+1).siblingIndex();
-            
+            System.out.println("fin vainas - inicio sacarnombres");
             //TODO ESTO ES PARA SACAR LOS NOMBRES DE LOS EQUIPOS, ES DIFICL PORQUE PUEDEN ESTAR SEPARADOS EN DIFERENTES Element
             for(; j<hijosTexto.size(); j++){
                 int index = hijosTexto.get(j).siblingIndex();
@@ -131,21 +135,22 @@ public class Dia {
                 }
             }
             //FIN - NOMBRES
+            System.out.println("fin nombres");
+            //Elements lineasLiga = lineas.select(":gt("+indexIni+"):lt("+indexFin+")"); //Esto era super ineficiente, demoraba unos 12s.
+            Elements lineasLiga = new Elements(lineas.subList(indexIni,indexFin)); System.out.println("fin e.lineasliga");
             
-            Elements lineasLiga = lineas.select(":gt("+indexIni+"):lt("+indexFin+")");
-            
-            Elements horas = lineasLiga.select("span");            
+            Elements horas = lineasLiga.select("span"); System.out.println("fin e.horas - ini bucle");
             for(Element e : horas) {
                 if(e.hasClass("live")) horasPartidos.add("VIVO:"+e.text());
                 else horasPartidos.add(e.text());
             }
-            
-            Elements links = lineasLiga.select("a");            
+            System.out.println("fin bucle");
+            Elements links = lineasLiga.select("a");      System.out.println("fin e.links - ini bucle");       
             for(Element e : links) {
                 String link = e.attr("href"); //formato: "/partido/Me60K5Dt/?d=1" o "/partido/Me60K5Dt/"
                 idsPartidos.add(link.substring(9,17)); 
             }
-            
+            System.out.println("fin bucl0e - inic crear partidos");            
             //AQUI VAMOS A IR CREANDO LOS PartidoPreview, pues vamos a ir viendo si es: Sched, Live, Fin.
             for(int z=0; z<links.size(); z++) {
             	Element e = links.get(z);
@@ -163,7 +168,7 @@ public class Dia {
             	System.out.println(ligas[i]+" "+pp.getId());
             	partidos[i].add(pp);
             	partidosTotales++;
-            }            
+            }   System.out.println("fin crear partidos");         
         }                
     }
     
