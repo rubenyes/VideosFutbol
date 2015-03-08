@@ -1,5 +1,6 @@
 package com.ruben.videosfutbol;
 
+import java.io.IOException;
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -9,6 +10,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
+
+import android.os.AsyncTask;
 
 
 /**
@@ -20,7 +23,9 @@ import org.jsoup.select.Elements;
  * http://stackoverflow.com/questions/2139134/how-to-send-an-object-from-one-android-activity-to-another-using-intents
  * http://www.javacodegeeks.com/2014/01/android-tutorial-two-methods-of-passing-object-by-intent-serializableparcelable.html
  */
-public class Partido implements Serializable{
+public class Partido{
+	
+	private PartidoActivity activity;
 	
 	private PartidoPreview ppre;
 	
@@ -46,20 +51,49 @@ public class Partido implements Serializable{
     
     private ArrayList<Video> videos = new ArrayList<Video>();
     
-    public Partido(PartidoPreview ppre)throws Exception{
+    private Document docDatosPartido;
+    private Document docAlineaciones;
+    private Document docVideos;
+    
+    public Partido(PartidoActivity activity, PartidoPreview ppre){
+    	this.activity = activity;
     	this.ppre = ppre;
         this.id = ppre.getId();
         this.paisYliga = ppre.getPaisYliga();
         
-        extraerDatosPartido();
-        extraerAlineaciones();
-        extraerVideos();
+        new MyTask().execute(); //Para conectarse a internet hay que utiizar una AsyncTask
+    }
+    
+    private class MyTask extends AsyncTask<Void, Void, Void>{
+
+		@Override
+		protected Void doInBackground(Void... arg0){
+			try {
+				docDatosPartido = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/").get();
+				docAlineaciones = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/?t=alineaciones").get();  
+				docVideos = Jsoup.connect("http://d.mismarcadores.com/x/feed/d_hi_"+id+"_es_1").header("X-Fsign","SW9D1eZo").get();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+	       
+			return null;
+		} 
+
+		@Override
+		protected void onPostExecute(Void param) {
+			extraerDatosPartido();
+	        extraerAlineaciones();
+	        extraerVideos();
+			
+		    activity.updateView();
+			System.out.println("data actualizada partido");
+		}
     }
         
-    public void extraerDatosPartido()throws Exception{
-        Document doc = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/").get();
+    public void extraerDatosPartido(){
+        //Document docDatosPartido = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/").get();
         
-        Element main = doc.getElementById("main");
+        Element main = docDatosPartido.getElementById("main");
         String titulo = main.getElementsByTag("h3").first().text();
         String[] aux = titulo.split(" - ");
         this.local = aux[0];
@@ -119,9 +153,9 @@ public class Partido implements Serializable{
         
     }
     
-    public void extraerAlineaciones()throws Exception{
-        Document doc = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/?t=alineaciones").get();        
-        Elements tables = doc.getElementsByTag("table");
+    public void extraerAlineaciones(){
+        //Document docAlineaciones = Jsoup.connect("http://m.mismarcadores.com/partido/"+id+"/?t=alineaciones").get();        
+        Elements tables = docAlineaciones.getElementsByTag("table");
         
         //Creamos este array de ArrayList auxiliar para no tener que repetir codigo, y poder acceder a las diferentes listas con un unico for.
         @SuppressWarnings("unchecked")
@@ -141,19 +175,18 @@ public class Partido implements Serializable{
         }
     }
     
-    public void extraerVideos()throws Exception{
+    public void extraerVideos(){
+        //Document docVideos = Jsoup.connect("http://d.mismarcadores.com/x/feed/d_hi_"+id+"_es_1").header("X-Fsign","SW9D1eZo").get();
+        
         ArrayList<String> textosVideos = new ArrayList<String>();
         ArrayList<String> linksVideos = new ArrayList<String>();
     
-        Document doc = Jsoup.connect("http://d.mismarcadores.com/x/feed/d_hi_"+id+"_es_1").header("X-Fsign","SW9D1eZo").get();
-        //System.out.println(doc.outerHtml());
-        
-        Elements textos = doc.getElementsByTag("th");
+        Elements textos = docVideos.getElementsByTag("th");
         for(Element texto : textos) {
             textosVideos.add(texto.text());
         }
         
-        Elements links = doc.select("a[href]");
+        Elements links = docVideos.select("a[href]");
         for(Element link : links) {
             linksVideos.add(link.attr("abs:href"));
         }
@@ -166,4 +199,85 @@ public class Partido implements Serializable{
         
         //PODRIA SEPARA QUIZAS LOS TEXTOS, Y COMPROBAR LAS ETIQUETAS DE ICONOS, QUE DICEN SI EL PENALTY FUE FALALDO O NO, Y SI LA TAREJTA FUE ROJA Y ESO.        
     }
+
+    
+	public PartidoPreview getPpre() {
+		return ppre;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public String getPaisYliga() {
+		return paisYliga;
+	}
+
+	public String getLocal() {
+		return local;
+	}
+
+	public String getVisit() {
+		return visit;
+	}
+
+	public String getMarcadoresAll() {
+		return marcadoresAll;
+	}
+
+	public String getEstadoOminuto() {
+		return estadoOminuto;
+	}
+
+	public String getFechaYhora() {
+		return fechaYhora;
+	}
+
+	public boolean isPartidoIdaVuelta() {
+		return partidoIdaVuelta;
+	}
+
+	public String getIdaVuelta() {
+		return idaVuelta;
+	}
+
+	public String getMarcador() {
+		return marcador;
+	}
+
+	public String getMarcador1tiempo() {
+		return marcador1tiempo;
+	}
+
+	public String getMarcador2tiempo() {
+		return marcador2tiempo;
+	}
+
+	public ArrayList<String> getAcciones1tiempo() {
+		return acciones1tiempo;
+	}
+
+	public ArrayList<String> getAcciones2tiempo() {
+		return acciones2tiempo;
+	}
+
+	public ArrayList<String> getJugTitularesLoc() {
+		return jugTitularesLoc;
+	}
+
+	public ArrayList<String> getJugSuplentesLoc() {
+		return jugSuplentesLoc;
+	}
+
+	public ArrayList<String> getJugTitularesVis() {
+		return jugTitularesVis;
+	}
+
+	public ArrayList<String> getJugSuplentesVis() {
+		return jugSuplentesVis;
+	}
+
+	public ArrayList<Video> getVideos() {
+		return videos;
+	}
 }

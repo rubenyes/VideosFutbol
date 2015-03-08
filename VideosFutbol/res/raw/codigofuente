@@ -1,0 +1,2903 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"> 
+  <title>Fútbol en Mis Marcadores Móvil - resultados Fútbol móvil</title> 
+  <meta name="keywords" content=""> 
+  <meta name="description" content="¡Sigue los resultados de fútbol en directo en tu móvil!. Consulta los últimos resultados de fútbol en cualquier lugar con la versión móvil de Mis Marcadores."> 
+  <meta name="copyright" content="Copyright (c) 2015 LiveSport s.r.o."> 
+  <meta name="robots" content="NOODP,noindex,nofollow"> 
+  <meta name="apple-itunes-app" content="app-id=766477515"> 
+  <meta name="google-play-app" content="app-id=eu.livesport.MisMarcadores_com"> 
+  <link rel="shortcut icon" href="/res/_fs/icon/favicon.ico"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="/res/image/mobile-icons/fs-green/180x180.png"> 
+  <link rel="apple-touch-icon" sizes="152x152" href="/res/image/mobile-icons/fs-green/152x152.png"> 
+  <link rel="apple-touch-icon" sizes="120x120" href="/res/image/mobile-icons/fs-green/120x120.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="/res/image/mobile-icons/fs-green/72x72.png"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="/res/image/mobile-icons/fs-green/57x57.png"> 
+  <link rel="apple-touch-icon" href="/res/image/mobile-icons/fs-green/touch-icon.png"> 
+  <meta name="apple-mobile-web-app-title" content="m.MisMarcadores.com"> 
+  <meta name="application-name" content="m.MisMarcadores.com"> 
+  <meta name="msapplication-square150x150logo" content="/res/image/mobile-icons/fs-green/336x336.png"> 
+  <link type="text/css" rel="stylesheet" href="/x/css/layout_313_840000000.css" media="screen"> 
+ </head> 
+ <body class="m.MisMarcadores.com"> 
+  <script type="text/javascript">
+	<!--
+		if ("borderRadius" in document.body.style && (navigator.userAgent.indexOf("Opera Mini") === -1))
+		{
+			if (document.cookie.indexOf("html5_promo_closed=1") == -1)
+			{
+				document.write('<div id="html5_promo"><div class="container"><a class="close" onclick="html5_promo_close()"></a><div class="content">¡Prueba nuestra nueva versión móvil para smartphones en <a href="http://t.mismarcadores.com">t.MisMarcadores.com</a>!</div></div></div>');
+			}
+		}
+
+		function html5_promo_close()
+		{
+			var exdate = new Date();
+			exdate.setDate(exdate.getDate() + 7);
+			document.cookie = "html5_promo_closed=1; expires=" + exdate.toUTCString();
+
+			document.getElementById("html5_promo").setAttribute("style", "display: none;");
+		}
+
+	-->
+	</script>
+  <div id="top"></div>
+  <div class="logo">
+   <a href="/"><img src="/res/_mobi/image/logo/logo-m-mismarcadores-com.gif" alt="m.MisMarcadores.com"></a>
+  </div> 
+  <div id="main" class="soccer"> 
+   <p class="p-set menu"><a href="/" class="active">Fútbol</a> | <a href="/hockey/">Hockey</a> | <a href="/tenis/">Tenis</a> | <a href="/baloncesto/">Baloncesto</a> | <a href="/balonmano/">Balonmano</a> | <a href="/voleibol/">Voleibol</a> | <a href="/beisbol/">Béisbol</a> | <a href="/futbol-americano/">Fútbol Amer.</a> | <a href="/rugby/">Rugby</a> | <a href="/otros">Más deportes&nbsp;»</a></p>
+   <p class="p-set menu"><a href="/">Hoy</a> | <a href="/?d=-1" class="active">Ayer</a> | <a href="/?d=1">Mañana</a></p>
+   <p class="p-set menu"><a href="/?d=-1&amp;s=1" class="active">Todos</a> | <a href="/?s=2">En directo</a> | <a href="/?d=-1&amp;s=3">Finalizados</a> | <a href="/?d=-1&amp;s=5">Cuotas</a></p>
+   <p class="refresh-top"><a href="/?d=-1&amp;s=1">REFRESH</a></p>
+   <h2>Fútbol » Ayer » Todos</h2>
+   <div style="padding: 3px 0px 3px 6px;">
+    <div id="lsadvert-zid-987-div" name="banx-iframe_top" class="lsadvert" style="width:320px; height:50px">
+     <script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script> 
+     <script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/69017827/m.MisMarcadores_320x50', [320, 50], 'div-gpt-ad-1422545066812-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> 
+     <!-- m.MisMarcadores_320x50 --> 
+     <div id="div-gpt-ad-1422545066812-0" style="width:320px; height:50px;"> 
+      <script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422545066812-0'); });
+</script> 
+     </div>
+    </div>
+    <div class="lsadvert_caption" style="width: 320px;">
+     anuncios
+    </div>
+   </div>
+   <p class="advert-top"><a href="http://www.bet365.com/home/?affiliate=365_085392" target="_blank">¡Apuestas deportivas en tu móvil con bet365!</a></p>
+   <div id="score-data">
+    <h4>ÁFRICA: Liga de Campeones CAF - Clasificación</h4>
+    <span>17:30</span>Barrack Young Controllers (Lib) - Real Banjul (Gam) 
+    <a href="/partido/MNQIlpOj/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>ALEMANIA: Bundesliga</h4>
+    <span>15:30</span>Augsburgo - Wolfsburgo 
+    <a href="/partido/MyGYphgA/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:30</span>Friburgo - Werder Bremen 
+    <a href="/partido/U1JtqWNM/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>15:30</span>Hamburgo - Dortmund 
+    <a href="/partido/EZfDwAop/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:30</span>Hannover - Bayern 
+    <a href="/partido/GbFxpC8G/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>15:30</span>Schalke - Hoffenheim 
+    <a href="/partido/Q9MPnEOc/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>18:30</span>Mainz - Mönchengladbach 
+    <a href="/partido/roHUoYw4/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>ALEMANIA: 2. Bundesliga</h4>
+    <span>13:00</span>Aalen - Furth
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/UL98Iqrg/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>13:00</span>Braunschweig - St. Pauli 
+    <a href="/partido/4vxn1rDI/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>ALEMANIA: 3. Liga</h4>
+    <span>14:00</span>Cottbus - Mainz II 
+    <a href="/partido/485n6sDe/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>14:00</span>Dortmund II - Bielefeld 
+    <a href="/partido/bRlkQ24R/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>14:00</span>Dynamo Dresden
+    <img src="/res/image/blank.gif" class="rcard-1"> - Sonnenhof 
+    <a href="/partido/Gr9j51S1/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Erfurt - Wehen 
+    <a href="/partido/8xdxT4K8/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>14:00</span>Kiel - Osnabruck 
+    <a href="/partido/MqGs7Nck/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Preussen Münster
+    <img src="/res/image/blank.gif" class="rcard-1"> - Regensburg
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/UocYTp52/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:00</span>Rostock - Chemnitzer FC
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/zmtHLMCr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Stuttgarter K. - Duisburg 
+    <a href="/partido/QDjsSOZE/?d=-1" class="fin">4:2</a>
+    <br>
+    <span>14:00</span>Stuttgart II
+    <img src="/res/image/blank.gif" class="rcard-2"> - Hallescher
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IBVLKtSl/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Unterhaching - Fortuna Köln
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/44koRrkL/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ALEMANIA: Regionalliga Norte</h4>
+    <span>13:00</span>Wolfsburgo II
+    <img src="/res/image/blank.gif" class="rcard-1"> - Lübeck 
+    <a href="/partido/CWw5wIJj/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>15:00</span>BSV Rehden - Hannover II 
+    <a href="/partido/pxrl0uR3/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>St. Pauli II - Hamburgo II 
+    <a href="/partido/lty6LUuF/?d=-1" class="fin">3:1</a>
+    <br>
+    <div style="padding: 6px 0px 6px 6px;">
+     <div id="lsadvert-zid-1740-div" name="banx-iframe_match_list" class="lsadvert" style="width:300px; height:250px">
+      <script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script> 
+      <script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/69017827/m.MisMarcadores_300x250', [300, 250], 'div-gpt-ad-1422539212815-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> 
+      <!-- m.MisMarcadores_300x250 --> 
+      <div id="div-gpt-ad-1422539212815-0" style="width:300px; height:250px;"> 
+       <script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422539212815-0'); });
+</script> 
+      </div>
+     </div>
+     <div class="lsadvert_caption" style="width: 300px;">
+      anuncios
+     </div>
+    </div>
+    <h4>ALEMANIA: Regionalliga Nordost</h4>
+    <span>13:30</span>Auerbach - Hertha II 
+    <a href="/partido/hQatsDMQ/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>13:30</span>BFC Dynamo - Viktoria Berlin 
+    <a href="/partido/zk5yrg7K/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ALEMANIA: Regionalliga Oeste</h4>
+    <span>13:00</span>Schalke II - Hennef 
+    <a href="/partido/dnrF4tr5/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>14:00</span>Bochum II - Lotte 
+    <a href="/partido/QRZV0bsU/?d=-1" class="fin">0:4</a>
+    <br>
+    <span>14:00</span>Rodinghausen - Siegen 
+    <a href="/partido/4CoN2KCH/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>14:00</span>Verl - Uerdingen 
+    <a href="/partido/0Kl662Dh/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>14:00</span>Viktoria Koln - Wattenscheid 
+    <a href="/partido/zwsJ30cB/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>15:30</span>Monchengladbach II - RW Essen 
+    <a href="/partido/ENhA5MSb/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ALEMANIA: Regionalliga Sudwest</h4>
+    <span>14:00</span>Kaiserslautern II - Elversberg 
+    <a href="/partido/G0S61VSa/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>14:00</span>Kassel - Homburg 
+    <a href="/partido/6kLJbTCI/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>14:00</span>Mannheim - Zweibrucken 
+    <a href="/partido/MwkYHjDt/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Neckarelz - Hoffenheim II 
+    <a href="/partido/2cO22BDg/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:00</span>Pirmasens - Worms 
+    <a href="/partido/ptKNcmSO/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:00</span>Saarbrucken - Baunatal 
+    <a href="/partido/G0lxHASn/?d=-1" class="fin">4:0</a>
+    <br>
+    <span>14:00</span>Trier - Walldorf 
+    <a href="/partido/bPHB0kr6/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>ALEMANIA: Regionalliga Bayern</h4>
+    <span>14:00</span>Bamberg - Seligenporten 
+    <a href="/partido/SnKzOd17/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:00</span>Furth II - Ingolstadt II 
+    <a href="/partido/hYNbSBhg/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>14:00</span>Garching - Illertissen 
+    <a href="/partido/0bR6QkN5/?d=-1" class="fin">0:4</a>
+    <br>
+    <span>14:00<span class="status canceled">Aplazado</span></span>Memmingen - Burghausen 
+    <a href="/partido/6wJvNGGD/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>14:00</span>Núremberg II - Buchbach 
+    <a href="/partido/EsPfTiwm/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Schalding - Schweinfurt 
+    <a href="/partido/WIZkUXNt/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:00</span>SpVgg Bayreuth
+    <img src="/res/image/blank.gif" class="rcard-1"> - Augsburgo II 
+    <a href="/partido/M7S2RV7a/?d=-1" class="fin">1:3</a>
+    <br>
+    <h4>ALEMANIA: Oberliga NOFV-Nord</h4>
+    <span>14:00</span>Hurturkel - Strausberg 
+    <a href="/partido/nPriH4JK/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:00</span>Schönberg - Lichtenberg 
+    <a href="/partido/b32deNd1/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>14:00</span>Waren - Schoneiche 
+    <a href="/partido/8E9qbPCr/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>15:00</span>Luckenwalde - Brandenburger 
+    <a href="/partido/xf10fsC7/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga NOFV-Süd</h4>
+    <span>14:00</span>Dresden II - RB Leipzig II 
+    <a href="/partido/IRZmQvCo/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Halle - Jena II 
+    <a href="/partido/Oph1LGQG/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>14:00</span>Markranstadt - Lokomotive Leipzig 
+    <a href="/partido/WUwhPbRi/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>14:00</span>Oberlausitz - Sandersdorf 
+    <a href="/partido/QiwdOItb/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Schott Jena - Einheit Rudolstadt 
+    <a href="/partido/4rx0Nxd4/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>15:00</span>Aue II - Bernburg 
+    <a href="/partido/pfgcMdBA/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Schleswig-Holstein</h4>
+    <span>14:00</span>Eutin - Heider SV 
+    <a href="/partido/xC0ObVF2/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00<span class="status canceled">Aplazado</span></span>Angeln - Bordesholm 
+    <a href="/partido/APbWd9pF/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>15:00</span>Neumunster - Dornbreite Lubeck 
+    <a href="/partido/M1RausFs/?d=-1" class="fin">7:1</a>
+    <br>
+    <span>15:30</span>Preetzer TSV - TSV Kropp 
+    <a href="/partido/4QG4v1Um/?d=-1" class="fin">0:7</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Hamburg</h4>
+    <span>14:00</span>Meiendorfer SV - Vier-und Marschlande 
+    <a href="/partido/OEeVB9FD/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>15:00<span class="status canceled">Aplazado</span></span>Rugenbergen - Barmbek-Uhlenhorst 
+    <a href="/partido/xIqDzghE/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Bremen</h4>
+    <span>15:00</span>Blumenthaler - Werder Bremen III 
+    <a href="/partido/E5Rhr9Yl/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Vatan Bremen - Habenhauser 
+    <a href="/partido/S8VdsTme/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>15:30</span>Sparta Bremerhaven - Union 60 Bremen 
+    <a href="/partido/0MT4u7I7/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Niedersachsen</h4>
+    <span>14:00<span class="status canceled">Aplazado</span></span>Göttingen 05 - Spelle-Venhaus 
+    <a href="/partido/fqDfd3H8/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>14:00</span>Rotenburger - Arminia Hannover 
+    <a href="/partido/6NWazMfk/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Jeddeloh - Ottersberg 
+    <a href="/partido/lnM4ZuAe/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Hessen</h4>
+    <span>15:00</span>Alzenau - Wehen II 
+    <a href="/partido/IBg8Vwrl/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Eschborn - Ederbergland 
+    <a href="/partido/44DXyt5K/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>15:00</span>Hadamar - Lohfelden 
+    <a href="/partido/zm43WJSs/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>15:00</span>Lehnerz - Schwalmstadt 
+    <a href="/partido/QDETxMkE/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>15:00</span>SKV Darmstadt - Flieden 
+    <a href="/partido/bRCyy0KQ/?d=-1" class="fin">2:4</a>
+    <br>
+    <span>15:00</span>Stadtallendorf - Sp. Seligenstadt 
+    <a href="/partido/UT5JSyS6/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>15:00</span>SV Wiesbaden - Oberrad 
+    <a href="/partido/d2hCUccf/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>15:00</span>Vellmar - Viktoria Griesheim 
+    <a href="/partido/jw7FTHC0/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Rheinland-Pfalz/Saar</h4>
+    <span>14:30</span>Neunkirchen - Saarbrucken II 
+    <a href="/partido/YsQMj1jU/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Pfeddersheim - Arminia Ludwigshafen 
+    <a href="/partido/6VfyAOjh/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:30</span>Idar-Oberstein - Diefflen 
+    <a href="/partido/vqgq82L4/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>15:30</span>Mechtersheim - Hauenstein 
+    <a href="/partido/pMgu9r6b/?d=-1" class="fin">0:6</a>
+    <br>
+    <span>15:30</span>Salmrohr - Saar Saarbrucken 
+    <a href="/partido/KvMIisyO/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:30</span>Spvgg Burgbrohl - Rochling 
+    <a href="/partido/lf0WA4yn/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Bayern Nord</h4>
+    <span>15:00</span>Aschaffenburg - Regensburg II 
+    <a href="/partido/YekOkTi0/?d=-1" class="fin">4:0</a>
+    <br>
+    <span>15:00</span>Bayern Hof - Memmelsdorf 
+    <a href="/partido/UNrXm7MC/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>15:00</span>Frohnlach - Aubstadt 
+    <a href="/partido/8EsymRyJ/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>15:00</span>Grossbardorf - Eltersdorf 
+    <a href="/partido/zLZMAUTP/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Jahn Forchheim - Alemannia Haibach 
+    <a href="/partido/MHVIBAEJ/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>Weiden - Spvgg Ansbach 09 
+    <a href="/partido/CnlSlm76/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>16:00</span>Erlenbach - Wurzburger FV 
+    <a href="/partido/t2Ck6lxs/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Bayern Süd</h4>
+    <span>14:00</span>Rain/Lech - Vilzing 
+    <a href="/partido/rR4zIMaR/?d=-1" class="fin">6:0</a>
+    <br>
+    <span>14:00</span>Unterfohring - Dachau 
+    <a href="/partido/Cte6C0Nl/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Wolfratshausen - Landsberg 
+    <a href="/partido/IJe2Dt8r/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>15:00</span>DJK Rosenheim - Raisting 
+    <a href="/partido/02y1Ysp8/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00<span class="status canceled">Aplazado</span></span>Eichstatt - Rosenheim 
+    <a href="/partido/88lFAvh1/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>15:00</span>Landshut - Bogen 
+    <a href="/partido/jXgABKxe/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>Pullach - Sonthofen 
+    <a href="/partido/namJ9b77/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>ALEMANIA: Oberliga Baden-Württemberg</h4>
+    <span>15:00</span>Aalen II - Kehler 
+    <a href="/partido/thLJYNYT/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Balingen - FC 08 Villingen 
+    <a href="/partido/0Yokl3YG/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Freiberg - Stuttgarter K. II 
+    <a href="/partido/QFgxi5lb/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Hollenbach - Karlsruher II 
+    <a href="/partido/nVsokqJA/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>15:00<span class="status canceled">Aplazado</span></span>Pfullendorf - Reutlingen 
+    <a href="/partido/IkjUhRJo/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>15:00</span>Ravensburg - Bahlinger 
+    <a href="/partido/GpCoUsso/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Spielberg - Freiburger 
+    <a href="/partido/dtkYioZi/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>SV Pforzheim - VfR Mannheim 
+    <a href="/partido/46htjP34/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ALEMANIA: Bundesliga Junior Norte</h4>
+    <span>11:00</span>Erfurt Sub-19 - Hertha Sub-19 
+    <a href="/partido/xvuhO6Dc/?d=-1" class="fin">4:0</a>
+    <br>
+    <span>11:00</span>RB Leipzig Sub-19 - Bremen Sub-19 
+    <a href="/partido/rub11q6p/?d=-1" class="fin">5:1</a>
+    <br>
+    <span>12:00</span>Rostock Sub-19 - Hannover Sub-19 
+    <a href="/partido/bmtlPnbi/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>13:00</span>Jena Sub-19
+    <img src="/res/image/blank.gif" class="rcard-1"> - Dynamo Dresden Sub-19 
+    <a href="/partido/6DqdNQS3/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>13:00</span>Wolfsburgo Sub-19 - Hamburger SV Sub-19 
+    <a href="/partido/dr2503Lj/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>14:00</span>St. Pauli Sub-19 - Braunschweig Sub-19 
+    <a href="/partido/p4r0MprA/?d=-1" class="fin">3:2</a>
+    <br>
+    <h4>ALEMANIA: Bundesliga Junior Sud</h4>
+    <span>11:00</span>1860 Munich Sub-19 - Kaiserslautern Sub-19 
+    <a href="/partido/lSsGCuv5/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>12:00</span>Mannheim Sub-19 - Eintracht Frankfurt Sub-19 
+    <a href="/partido/8UcHAJ8H/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>13:00</span>Bayern Sub-19 - Núremberg Sub-19 
+    <a href="/partido/trdP8cwU/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>13:00</span>Hoffenheim Sub-19
+    <img src="/res/image/blank.gif" class="rcard-1"> - Saarbrucken Sub-19
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/f5rCDLOb/?d=-1" class="fin">6:1</a>
+    <br>
+    <span>13:00</span>Karlsruher Sub-19 - Furth Sub-19 
+    <a href="/partido/SItKBagB/?d=-1" class="fin">1:2</a>
+    <br>
+    <h4>ALEMANIA: Bundesliga Junior Oeste</h4>
+    <span>11:00</span>Bochum Sub-19 - Düsseldorf Sub-19 
+    <a href="/partido/hQN7ufPS/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>11:00</span>Duisburg Sub-19 - Koln Sub-19
+    <img src="/res/image/blank.gif" class="rcard-3"> 
+    <a href="/partido/O8EwzYnj/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>14:00</span>Bielefeld Sub-19 - Monchengladbach Sub-19 
+    <a href="/partido/2aDsZi2d/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>ANGOLA: Girabola League</h4>
+    <span>15:30</span>Progresso da Lunda Sul - Sporting de Cabinda 
+    <a href="/partido/z17WOAC7/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>16:00</span>Primeiro de Agosto - Kabuscorp 
+    <a href="/partido/EougtCsr/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>17:00</span>Interclube - Onze Bravos 
+    <a href="/partido/27aInE4E/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>ARABIA SAUDÍ: Saudi Professional League</h4>
+    <span>16:25</span>Al-Fateh - Al-Taawon 
+    <a href="/partido/WdWDG6tg/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:25</span>Al Khaleej - Al-Hilal 
+    <a href="/partido/lYQIFQea/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>18:30</span>Al Nasr Riyadh - Al-Shoalah 
+    <a href="/partido/SOPMEpB5/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>18:40</span>Al Shabab - Al Ahli SC 
+    <a href="/partido/MoPQD4QB/?d=-1" class="fin">2:3</a>
+    <br>
+    <h4>ARGELIA: División 1</h4>
+    <span>15:00</span>Harrach - Saoura 
+    <a href="/partido/YFP3DJYQ/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Constantine - MO Bejaia 
+    <a href="/partido/vc2W8wsr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>MC Alger - Bel Abbes 
+    <a href="/partido/rkam5et7/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ARGENTINA: Primera División</h4>
+    <span>01:10</span>Atl. Rafaela - Racing Club 
+    <a href="/partido/MFjFIO9b/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>21:00</span>Nueva Chicago
+    <img src="/res/image/blank.gif" class="rcard-1"> - Godoy Cruz 
+    <a href="/partido/IT4k23PH/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>22:00</span>Olimpo
+    <img src="/res/image/blank.gif" class="rcard-1"> - Rosario Ctral. 
+    <a href="/partido/rVvOG2vB/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>23:15</span>Aldosivi - Quilmes
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/zoDY5oQh/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ARGENTINA: Primera B Nacional</h4>
+    <span>21:00</span>Atl. Tucumán - Villa Dálmine 
+    <a href="/partido/YXQVJx5e/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>21:00</span>Guillermo Brown
+    <img src="/res/image/blank.gif" class="rcard-1"> - Ferro Carril Oeste 
+    <a href="/partido/fsSRKIkk/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>23:05</span>All Boys - Gimnasia Jujuy 
+    <a href="/partido/nyi5YyKl/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>ARGENTINA: Primera B</h4>
+    <span>21:00</span>Barracas Central - Villa San Carlos 
+    <a href="/partido/IwSiWxwq/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>21:00</span>Colegiales
+    <img src="/res/image/blank.gif" class="rcard-1"> - Comunicaciones
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/MBdNGcwd/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>21:00</span>Flandria - Atlanta
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/02HdVdhk/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>21:00</span>UAI Urquiza - Sportivo Italiano
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/E5q9v1V2/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>22:05</span>CA Estudiantes - Deportivo Morón 
+    <a href="/partido/84xIxu0F/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>ARGENTINA: Primera C</h4>
+    <span>21:00</span>Sacachispas - San Telmo 
+    <a href="/partido/fTl81Fi5/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>21:00</span>San Martín Burzaco - General Lamadrid 
+    <a href="/partido/YVBZ4lbc/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>ARMENIA: Premier League</h4>
+    <span>11:00<span class="status canceled">Aplazado</span></span>Gandzasar - Ulisses 
+    <a href="/partido/CGciaxd1/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>11:40</span>Alashkert - Pyunik 
+    <a href="/partido/8vgaMluh/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>AUSTRALIA: A-League</h4>
+    <span>05:00</span>Wellington Phoenix - Adelaide United 
+    <a href="/partido/dhgRWkNQ/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>09:30</span>Melbourne Victory - Perth Glory
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IeahS9Vs/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>AUSTRALIA: Victorian Premier League</h4>
+    <span>05:00</span>Avondale Heights SC - Port Melbourne Sharks 
+    <a href="/partido/vTnjLPtT/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>07:00</span>North Geelong - Melbourne Knights 
+    <a href="/partido/rciBGqkp/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>09:00</span>Dandenong - Green Gully 
+    <a href="/partido/MmjFF34j/?d=-1" class="fin">2:5</a>
+    <br>
+    <h4>AUSTRALIA: Brisbane Premier League</h4>
+    <span>08:00</span>Peninsula - Queensland Lions 
+    <a href="/partido/Qiu2Z4Wk/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>08:00</span>Wolves FC - Mitchelton 
+    <a href="/partido/Oxb5YOod/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>09:00</span>Rochedale - Eastern Suburbs 
+    <a href="/partido/xtnmc8Od/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>10:00</span>Ipswich Knights - Logan Lightning 
+    <a href="/partido/GWpidSw3/?d=-1" class="fin">2:3</a>
+    <br>
+    <h4>AUSTRALIA: APL Premier League</h4>
+    <span>05:30</span>Modbury
+    <img src="/res/image/blank.gif" class="rcard-1"> - Adelaide Comets 
+    <a href="/partido/rylRtQQu/?d=-1" class="fin">1:5</a>
+    <br>
+    <span>05:30</span>South Adelaide - White City 
+    <a href="/partido/fBiVuptn/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>05:30</span>West Torrens - NE Metrostars 
+    <a href="/partido/6FCLLteU/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>09:30</span>Croydon - Blue Eagles 
+    <a href="/partido/GQuvvOAb/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>09:30</span>Port Adelaide Lion - Campbelltown City 
+    <a href="/partido/xzszu4eh/?d=-1" class="fin">2:5</a>
+    <br>
+    <h4>AUSTRALIA: Queensland State League</h4>
+    <span>08:00</span>Palm Beach
+    <img src="/res/image/blank.gif" class="rcard-1"> - Olympic FC 
+    <a href="/partido/tnj21pCi/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>08:00</span>SWQ Thunder - Brisbane Roar Sub-21 
+    <a href="/partido/z9k604Rc/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>10:00</span>Western Pride - N. Queensland 
+    <a href="/partido/lCgAaOt4/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>AUSTRIA: Tipico Bundesliga</h4>
+    <span>16:00</span>Sturm Graz
+    <img src="/res/image/blank.gif" class="rcard-1"> - AC Wolfsberger
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/6NfXCJ2n/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>18:30</span>Neustadt - Admira 
+    <a href="/partido/SxqtBcXb/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>18:30</span>Ried - Grodig
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/lnpxCwIh/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>18:30</span>Salzburg - Altach 
+    <a href="/partido/IRFNhGHU/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>AUSTRIA: Regionalliga Este</h4>
+    <span>15:30</span>St. Polten (Am) - Mattersburg (Am) 
+    <a href="/partido/0MLG7POb/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>17:00</span>Ritzing - Amstetten 
+    <a href="/partido/4fS79ofn/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>AUSTRIA: Regionalliga Centrale</h4>
+    <span>14:30</span>Weiz - Union Gurten 
+    <a href="/partido/Egcw3tR6/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:30</span>BW Linz - Florian 
+    <a href="/partido/hfchKsds/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>17:00</span>Pasching - Allerheiligen 
+    <a href="/partido/Y9GLP3YJ/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>18:00</span>Lafnitz
+    <img src="/res/image/blank.gif" class="rcard-1"> - Vorwarts Steyr
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/tGTZ10tD/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>BÉLGICA: Jupiler Pro League</h4>
+    <span>20:00</span>Club Brujas - Charleroi
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/C6vHDjRA/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Genk - Waregem 
+    <a href="/partido/Q9rLCAtH/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>20:00</span>Gent - Lierse 
+    <a href="/partido/67dkerBq/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>20:00</span>Kortrijk - Círculo Brujas 
+    <a href="/partido/McZt1Yb2/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Lokeren - Anderlecht 
+    <a href="/partido/IP80hte2/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>20:00</span>Mechelen - St. Lieja 
+    <a href="/partido/z1wo0hE8/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Mouscron Peruwelz - Westerlo 
+    <a href="/partido/vZ9dgMud/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Oostende - Waasland-Beveren 
+    <a href="/partido/pbegf2Qk/?d=-1" class="fin">4:3</a>
+    <br>
+    <h4>BÉLGICA: Proximus League</h4>
+    <span>19:30</span>Dessel - Heist 
+    <a href="/partido/vXp0TxDP/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Antwerp - Patro Eisden 
+    <a href="/partido/bHRWNGzm/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>20:00</span>Eupen - RWS Bruxelles 
+    <a href="/partido/WUPvMf5a/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>20:00</span>Seraing Utd
+    <img src="/res/image/blank.gif" class="rcard-1"> - Mons 
+    <a href="/partido/r5TrLEK5/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>20:00</span>St. Truiden - Woluwe Zaventem 
+    <a href="/partido/ttXROdLt/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>BÉLGICA: Tercera División Grupo A</h4>
+    <span>19:30</span>Torhout - Geants 
+    <a href="/partido/h0vplzLE/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>19:30</span>Tournai - Boom 
+    <a href="/partido/E9utkG58/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>20:00</span>Temse - Oudenaarde 
+    <a href="/partido/zPTlmfzL/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>20:00</span>Zeehaven - Gullegem 
+    <a href="/partido/Y9nhnEkR/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>BÉLGICA: Tercera División Grupo B</h4>
+    <span>20:00</span>KV Turnhout - Hasselt 
+    <a href="/partido/zoZfribM/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>20:00</span>Oosterwijk - Sprimont-Comblain 
+    <a href="/partido/U7YbsBDS/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>20:00</span>UR La Louviere - Walhain 
+    <a href="/partido/6TPQxVLq/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>BENÍN: Championnat National</h4>
+    <span>16:00</span>Mogas - Agonlin 
+    <a href="/partido/0lEAGZw9/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>BOLIVIA: Liga de Fútbol Profesional - Clausura</h4>
+    <span>20:30</span>Petrolero de Yacuiba - Oriente Petrolero
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/hCKFUUp7/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>BOTSWANA: Premier League</h4>
+    <span>14:45</span>Gaborone Utd - Botswana MC 
+    <a href="/partido/Y7ofPWEs/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>BR Highlanders - Notwane 
+    <a href="/partido/MTHy7kaD/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>15:00</span>Police XI - ECCO City Greens 
+    <a href="/partido/WbaSTC6Q/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Sankoyo Bush Bucks - Township Rollers 
+    <a href="/partido/2PfOUhiK/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>15:30</span>Satmos - Orapa United 
+    <a href="/partido/OYeKVYyE/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>BRASIL: Campeonato Paulista</h4>
+    <span>20:00</span>Ituano - Rio Claro
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/EmMJ7dMQ/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>20:00</span>Sao Bernardo - Sao Bento 
+    <a href="/partido/trIzoZED/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>22:30</span>Mogi Mirim - Ponte Preta 
+    <a href="/partido/Yy5M8x7K/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>22:30</span>Palmeiras - Bragantino 
+    <a href="/partido/Gd8o3GUs/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>BRASIL: Campeonato Carioca - Taça Guanabara</h4>
+    <span>19:30</span>Nova Iguacu - Resende 
+    <a href="/partido/ERr3jNdL/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>20:00</span>Bangu - Boavista
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/8UuehqS8/?d=-1" class="fin">4:2</a>
+    <br>
+    <span>20:00</span>Flamengo - Friburguense 
+    <a href="/partido/hMc8Uuz2/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>20:00</span>Volta Redonda - Macae 
+    <a href="/partido/EVb4VLKe/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>BRASIL: Campeonato Gaucho</h4>
+    <span>22:30</span>Gremio - SER Caxias
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/6cNsF4AA/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>23:30</span>Lajeadense - Hamburgo 
+    <a href="/partido/K0RoEOPG/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>BRASIL: Campeonato Mineiro</h4>
+    <span>20:00</span>Caldense - Tupi 
+    <a href="/partido/0jy2rSDk/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>20:00</span>Guarani EC - EC Democrata 
+    <a href="/partido/8GvAt6r2/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>20:00</span>Mamore - Boa 
+    <a href="/partido/Maxbq8bq/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>20:00</span>Tombense - URT 
+    <a href="/partido/IVXxlljS/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>BRASIL: Campeonato Cearense - Segunda ronda</h4>
+    <span>22:15</span>Ceara - Fortaleza 
+    <a href="/partido/WOtQ3CsS/?d=-1" class="fin">1:2</a>
+    <br>
+    <h4>BRASIL: Campeonato Cearense - Grupo Descenso</h4>
+    <span>20:00</span>Guarany - Horizonte 
+    <a href="/partido/61VGxzqT/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>BRASIL: Campeonato Paranaense</h4>
+    <span>22:30</span>Atlético-PR - Malucelli 
+    <a href="/partido/SCXId6mD/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>BRASIL: Campeonato Goiano</h4>
+    <span>21:00</span>Aparecidense - Gremio Anapolis 
+    <a href="/partido/CbUVIj58/?d=-1" class="fin">5:0</a>
+    <br>
+    <h4>BRASIL: Campeonato Pernambucano - Play-off descenso</h4>
+    <span>19:00</span>CA Porto
+    <img src="/res/image/blank.gif" class="rcard-1"> - Vera Cruz 
+    <a href="/partido/z7C7dTUf/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>20:00</span>Ypiranga - America PE 
+    <a href="/partido/St9abk0r/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>BRASIL: Campeonato Catarinense - Play-Offs Campeonato</h4>
+    <span>22:30</span>Criciúma - Chapecoense-SC 
+    <a href="/partido/zwBtwsTR/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>BRASIL: Campeonato Sul-Matogrossense</h4>
+    <span>19:00</span>CENE - Novoperario 
+    <a href="/partido/xYgnn5sI/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>23:00</span>Misto - Comercial MS 
+    <a href="/partido/f9lioPdO/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>BRASIL: Copa Verde</h4>
+    <span>21:30</span>Paysandu - Nacional-AM 
+    <a href="/partido/fwMRPpvr/?d=-1" class="fin">4:1</a>
+    <br>
+    <h4>BULGARIA: A PFG</h4>
+    <span>13:30<span class="status canceled">Aplazado</span></span>Haskovo - Slavia Sofia 
+    <a href="/partido/8KCsJgU8/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>16:00</span>CSKA Sofia - Beroe 
+    <a href="/partido/KbWncC7k/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>BULGARIA: B PFG</h4>
+    <span>14:30</span>Dobrudzha - Spartak 
+    <a href="/partido/juYRRBEs/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:30</span>Pirin Blagoevgrad - Razlog 
+    <a href="/partido/MwZnNmTC/?d=-1" class="fin">5:0</a>
+    <br>
+    <h4>BURKINA FASO: Premier League</h4>
+    <span>17:00</span>ASFA Yennega - Kadiogo 
+    <a href="/partido/ja4qPPeo/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>17:00</span>Bankuy Sport - BPS Koudougou 
+    <a href="/partido/YNTTWyFi/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>17:00</span>Bobo-Dioulasso - Kozaf 
+    <a href="/partido/fXUPXHao/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>17:00</span>Canon du Sud - Bobo Sport 
+    <a href="/partido/2cYXVeUc/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>17:00</span>US Ouagadougou - Majestic 
+    <a href="/partido/vNyGthRI/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>CHILE: Primera División - Clausura</h4>
+    <span>01:00</span>Barnechea
+    <img src="/res/image/blank.gif" class="rcard-3"> - Cobreloa 
+    <a href="/partido/SluHxir2/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>21:00</span>Palestino
+    <img src="/res/image/blank.gif" class="rcard-1"> - O'Higgins
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/UgJa1zL2/?d=-1" class="fin">3:3</a>
+    <br>
+    <span>23:30</span>Huachipato
+    <img src="/res/image/blank.gif" class="rcard-1"> - U. Católica
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/8pI30fz9/?d=-1" class="fin">3:5</a>
+    <br>
+    <h4>CHILE: Primera B - Clausura</h4>
+    <span>21:00</span>Magallanes - Dep. Concepción 
+    <a href="/partido/UuC6artr/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>21:30</span>Coquimbo - Curicó Unido 
+    <a href="/partido/xrXR6Qm8/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>23:00</span>Iberia - U. San Felipe 
+    <a href="/partido/GYVV5p3E/?d=-1" class="fin">1:4</a>
+    <br>
+    <h4>CHINA: Superliga</h4>
+    <span>08:35</span>Hangzhou Greentown - Guangzhou R&amp;F 
+    <a href="/partido/fRFxqkUc/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>08:35</span>Shanghai SIPG - Jiangsu Sainty 
+    <a href="/partido/jg9osTbA/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>12:35</span>Guizhou Renhe - Liaoning 
+    <a href="/partido/YHEtr9q4/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>CHIPRE: First Division - Play-Offs Campeonato</h4>
+    <span>15:00</span>APOEL - Anorthosis
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/v7iLK8sl/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Ermis - Apollon 
+    <a href="/partido/dr2GLlSs/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>COLOMBIA: Liga Águila - Apertura</h4>
+    <span>20:00</span>Envigado - Aguilas 
+    <a href="/partido/SWktjXjq/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>22:00</span>Millonarios - La Equidad 
+    <a href="/partido/fqVvBYS8/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>CONGO: Ligue 1</h4>
+    <span>16:00</span>St-Michel Ouenzé - Pontenegrine 
+    <a href="/partido/UR2U37Go/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>18:00</span>Poto-Poto - Inter Club 
+    <a href="/partido/rV6Y2RVi/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>COREA DEL SUR: K-League Classic</h4>
+    <span>06:00</span>Incheon - Gwangju 
+    <a href="/partido/l6E4weCA/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>07:00</span>Jeonbuk - Seongnam 
+    <a href="/partido/SdD8xFRG/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>08:00</span>Busan - Daejeon 
+    <a href="/partido/MXRByZtN/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>CROACIA: 1. HNL</h4>
+    <span>15:00</span>Dinamo Zagreb - NK Zagreb 
+    <a href="/partido/IaePf6eC/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>17:00</span>RNK Split - Belupo 
+    <a href="/partido/E7b8bldm/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>CROACIA: 2. HNL</h4>
+    <span>15:00</span>Imotski - NK Bistra 
+    <a href="/partido/xCflYdEm/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Radnik Sesvete - Gorica 
+    <a href="/partido/AkOiZxas/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>DINAMARCA: Superliga</h4>
+    <span>17:00</span>Nordsjaelland - Sonderjyske 
+    <a href="/partido/x0xSgFPr/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>ECUADOR: Serie A - Primera fase</h4>
+    <span>02:00</span>Dep. Cuenca - River Plate Ecuador 
+    <a href="/partido/2ZT88v7I/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>22:00</span>Mushuc Runa - U. Católica 
+    <a href="/partido/tQSC7bMO/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>23:00</span>Ind. del Valle - LDU Loja 
+    <a href="/partido/EDydBtNa/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>EL SALVADOR: Primera División - Clausura</h4>
+    <span>21:30</span>Pasaquina - UES
+    <img src="/res/image/blank.gif" class="rcard-2"> 
+    <a href="/partido/AVH6INUh/?d=-1" class="fin">3:1</a>
+    <br>
+    <h4>EMIRATOS ÁRABES UNIDOS: UAE League</h4>
+    <span>14:35</span>Emirates Club - Al Dhafra 
+    <a href="/partido/l8cQJV7g/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>14:40</span>Al Nasr - Ajman 
+    <a href="/partido/CQfcQXUP/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>17:30</span>Bani Yas - Al Sharjah 
+    <a href="/partido/IRD63ANC/?d=-1" class="fin">2:5</a>
+    <br>
+    <span>17:30</span>Ittihad Kalba - Al Wasl 
+    <a href="/partido/bNjgRDFJ/?d=-1" class="fin">1:6</a>
+    <br>
+    <h4>ESCOCIA: Premiership</h4>
+    <span>16:00</span>Motherwell - Kilmarnock
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/dIUkVPGl/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Ross County - Partick
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/QTj7wl98/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESCOCIA: Championship</h4>
+    <span>16:00</span>Cowdenbeath - Rangers 
+    <a href="/partido/A94jfHA7/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Dumbarton - Alloa 
+    <a href="/partido/Y3mirHGJ/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESCOCIA: League One</h4>
+    <span>16:00</span>Brechin - Airdrie
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/YFDi7hQS/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Dunfermline - Ayr 
+    <a href="/partido/zPaJ2CYq/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Morton - Forfar 
+    <a href="/partido/UaEM1Wmj/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>16:00</span>Stenhousemuir - Peterhead 
+    <a href="/partido/8jDQ0j3d/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00<span class="status canceled">Aplazado</span></span>Stirling - Stranraer 
+    <a href="/partido/Aei9PZuc/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>ESCOCIA: League Two</h4>
+    <span>16:00</span>Annan - Albion Rovers 
+    <a href="/partido/M3UpPfMf/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>16:00</span>Clyde - East Stirlingshire 
+    <a href="/partido/APAuoxqE/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Montrose - Arbroath 
+    <a href="/partido/0fTlOEy1/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Queen's Park - East Fife
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/8KWdMh6D/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESCOCIA: FA Cup</h4>
+    <span>16:00<span class="status canceled">Aplazado</span></span>Inverness - Raith 
+    <a href="/partido/nZRhdO77/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>ESLOVAQUIA: Fortuna liga</h4>
+    <span>14:30</span>Ruzomberok - Myjava 
+    <a href="/partido/GplMberF/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>17:30</span>Dun. Streda - Podbrezova 
+    <a href="/partido/x0xVdZCR/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>17:30</span>Z. Moravce - Slovan Bratislava 
+    <a href="/partido/6F6VyYz2/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>ESLOVAQUIA: 2. Liga - Oeste</h4>
+    <span>14:30</span>Nove Mesto - Skalica 
+    <a href="/partido/UN0GF8SH/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Sala - Dubnica
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/dA28HUc5/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Samorin - Zilina B
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/jX1CGlDB/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>ESLOVAQUIA: 2. Liga - Este</h4>
+    <span>14:30</span>R. Sobota - Bardejov 
+    <a href="/partido/n5YmjIPI/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>14:30</span>Zvolen - Presov 
+    <a href="/partido/hrZqibAC/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>17:30</span>Poprad - L. Mikulas 
+    <a href="/partido/Eizthve6/?d=-1" class="fin">0:3</a>
+    <br>
+    <h4>ESLOVAQUIA: Division C - Oeste</h4>
+    <span>14:30</span>Borcice - Levice 
+    <a href="/partido/SvYfKkon/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESLOVENIA: Prva Liga</h4>
+    <span>14:15</span>Celje - Maribor 
+    <a href="/partido/8vB4EoRr/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>16:00</span>O. Ljubljana - Velenje 
+    <a href="/partido/b5PYJ73L/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>17:00</span>Domzale - NK Krka
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/464DCPee/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>18:00</span>Zavrc - Koper
+    <img src="/res/image/blank.gif" class="rcard-2"> 
+    <a href="/partido/j309D5tk/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>ESPAÑA: Liga BBVA</h4>
+    <span>16:00</span>Deportivo Coruña - Sevilla 
+    <a href="/partido/8SIHfyER/?d=-1" class="fin">3:4</a>
+    <br>
+    <span>18:00</span>Athletic Club - Real Madrid 
+    <a href="/partido/I18ilZje/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Elche - Almería 
+    <a href="/partido/Ay5qjeMr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>22:00</span>Granada - Málaga 
+    <a href="/partido/SWkrBdb8/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESPAÑA: Liga Adelante</h4>
+    <span>16:00</span>Numancia - Mirandés 
+    <a href="/partido/hK6tDIvr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>18:00</span>Lugo - Barcelona B 
+    <a href="/partido/pEqFdcf1/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>18:15</span>Racing Santander - Osasuna 
+    <a href="/partido/O4rJeH97/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>20:00</span>Albacete - Sabadell 
+    <a href="/partido/QX4lBd9f/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>20:00</span>Tenerife - Leganés 
+    <a href="/partido/vDQ5JK1E/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ESPAÑA: Segunda División B - Grupo 1</h4>
+    <span>16:15</span>Real Valladolid B - Burgos 
+    <a href="/partido/zejsU5wn/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:30</span>Lealtad - Compostela 
+    <a href="/partido/bcs2PshH/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>17:00</span>Atl. Astorga - Coruxo 
+    <a href="/partido/ULcv6gid/?d=-1" class="fin">3:1</a>
+    <br>
+    <h4>ESPAÑA: Segunda División B - Grupo 2</h4>
+    <span>16:00</span>R. Sociedad B
+    <img src="/res/image/blank.gif" class="rcard-1"> - Getafe B 
+    <a href="/partido/2VPCkxHq/?d=-1" class="fin">3:2</a>
+    <br>
+    <h4>ESPAÑA: Segunda División B - Grupo 3</h4>
+    <span>12:00</span>RCD Mallorca B
+    <img src="/res/image/blank.gif" class="rcard-1"> - Villarreal B
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/dAQc9ocF/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Olot - Nàstic Tarragona 
+    <a href="/partido/vFualpLk/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Real Zaragoza B - Eldense 
+    <a href="/partido/SzMgARs9/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>17:00</span>Valencia B - Badalona 
+    <a href="/partido/I3wWfnrM/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>ESTONIA: Meistriliiga</h4>
+    <span>13:00</span>Nomme Kalju - Tammeka Tartu 
+    <a href="/partido/KYYpGLkB/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>13:00</span>Sillamäe Kalev - Paide Linnameeskond
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/MmGsH1z5/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>15:30</span>Flora - Tulevik 
+    <a href="/partido/tlNgEaKN/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>15:30</span>Narva - Parnu Linnameeskond 
+    <a href="/partido/2cOkFu5H/?d=-1" class="fin">5:2</a>
+    <br>
+    <h4>FILIPINAS: UFL</h4>
+    <span>07:15</span>Pachanga - Socceroo 
+    <a href="/partido/dAQtudcS/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>10:15</span>Meralco Sparks - Philippine Army 
+    <a href="/partido/2i39zG5q/?d=-1" class="fin">7:0</a>
+    <br>
+    <span>13:15</span>Global - Kaya 
+    <a href="/partido/0xMCZZKk/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>FINLANDIA: Liiga Cup - Playoffs</h4>
+    <span>12:30</span>HIFK - VPS 
+    <a href="/partido/6ck0cyj0/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>SJK - Rovaniemi 
+    <a href="/partido/bXohacLm/?d=-1" class="fin">2:3pen.</a>
+    <br>
+    <h4>FINLANDIA: Suomen Cup</h4>
+    <span>09:45</span>Kontu - Myllypuro 
+    <a href="/partido/SYvwQrsP/?d=-1" class="fin">1:6</a>
+    <br>
+    <span>14:00</span>PPJ - PK-35 Vantaa 
+    <a href="/partido/CzrTJVOc/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>18:00</span>Virky - Mikkeli 
+    <a href="/partido/tOHE1OLk/?d=-1" class="fin">1:2pró.</a>
+    <br>
+    <span>18:45</span>SAPA - Espoo 
+    <a href="/partido/UBxYIkv4/?d=-1" class="fin">2:1pró.</a>
+    <br>
+    <h4>FRANCIA: Ligue 1</h4>
+    <span>17:00</span>PSG - Lens 
+    <a href="/partido/v5lvLTUt/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>20:00</span>Bastia - Niza
+    <img src="/res/image/blank.gif" class="rcard-2"> 
+    <a href="/partido/Q7BH3Sa6/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>20:00</span>Caen
+    <img src="/res/image/blank.gif" class="rcard-1"> - Bordeaux 
+    <a href="/partido/rq6M2nFC/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>20:00</span>Evian TG - Mónaco 
+    <a href="/partido/MZ4Q16UI/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>20:00</span>Reims - Nantes
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IemrKmpm/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>20:00</span>Rennes - Metz 
+    <a href="/partido/nVinJ7ag/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>FRANCIA: Ligue 2</h4>
+    <span>14:00</span>Dijon - Le Havre
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/84xtGw6l/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>GALES: FA Cup</h4>
+    <span>15:30</span>Aberystwyth - Airbus
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/ddNlYoe5/?d=-1" class="fin">1:2pen.</a>
+    <br>
+    <span>15:30</span>Bangor - Newtown 
+    <a href="/partido/nH0wDZno/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>15:30</span>Connah's Q. - TNS 
+    <a href="/partido/hOGcWPPH/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>GAMBIA: GFA League</h4>
+    <span>17:30</span>Armed Forces - Hawks 
+    <a href="/partido/SCacjq9O/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>17:30</span>Banjul - Real Banjul 
+    <a href="/partido/6cBlh5vC/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>17:30</span>Interior - Bakau 
+    <a href="/partido/lM0giPgI/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>GRECIA: Super Liga</h4>
+    <span>14:00</span>Veria - Ergotelis 
+    <a href="/partido/reAyNYIs/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:15</span>Asteras T. - Atromitos 
+    <a href="/partido/xxCiJjI6/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>18:30<span class="status canceled">Aplazado</span></span>Panthrakikos - Olympiacos 
+    <a href="/partido/Y350HUnJ/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>GRECIA: Football League - Group 1</h4>
+    <span>17:30</span>AEK - Ermionidas-Ermis 
+    <a href="/partido/My6VB7Sk/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>GRECIA: Football League 2 - Group A</h4>
+    <span>14:00</span>Aris - Akropotamos 
+    <a href="/partido/l2lpmqvE/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>GRECIA: Football League 2 - Group D</h4>
+    <span>14:00</span>Irodotos - Atromitos P. 
+    <a href="/partido/8E9gyQ0o/?d=-1" class="fin">3:2</a>
+    <br>
+    <h4>GUATEMALA: Liga Nacional - Clausura</h4>
+    <span>23:00</span>Comunicaciones - Universidad SC 
+    <a href="/partido/zNUwcGP1/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>23:00</span>Xelajú - Suchitepéquez 
+    <a href="/partido/I5AxIH1R/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>GUINEA: Ligue 1</h4>
+    <span>18:00</span>Hafia - Kamsar 
+    <a href="/partido/ddqPKu2p/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>HOLANDA: Eredivisie</h4>
+    <span>18:30</span>G.A. Eagles - PSV 
+    <a href="/partido/ruWZnB6L/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>19:45</span>Den Haag - Heerenveen 
+    <a href="/partido/4lXVmiiF/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>19:45</span>Heracles - Vitesse 
+    <a href="/partido/ADISlXy9/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>20:45</span>Zwolle - Cambuur 
+    <a href="/partido/WMJOkDM2/?d=-1" class="fin">6:1</a>
+    <br>
+    <h4>HOLANDA: Jupiler League</h4>
+    <span>16:30</span>Eindhoven - Volendam 
+    <a href="/partido/th77bG1c/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>19:45</span>Waalwijk - Sparta Rotterdam 
+    <a href="/partido/fc2mgLPH/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>HONDURAS: Liga Nacional - Clausura</h4>
+    <span>02:00<span class="status canceled">Aplazado</span></span>CD Honduras - Real España 
+    <a href="/partido/d8uoO66o/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>21:00<span class="status canceled">Aplazado</span></span>Victoria - Parrillas O. 
+    <a href="/partido/ABqkNQLi/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>HONG KONG: Division 1</h4>
+    <span>07:30</span>Tai Po - Eastern AA 
+    <a href="/partido/O2JMVFeE/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>10:30</span>Kitchee - Pegasus 
+    <a href="/partido/hxOQUZAK/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>HUNGRÍA: OTP Bank Liga</h4>
+    <span>14:00</span>Ferencvaros
+    <img src="/res/image/blank.gif" class="rcard-1"> - Győr 
+    <a href="/partido/bFbbZBRS/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Kecskemeti - DVTK
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/rJ8ZvGci/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Lombard Papa - Dunaujvaros PASE 
+    <a href="/partido/0OpQUVZq/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Pecsi - Haladas
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/M97wvzDc/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>18:30</span>Videoton - Nyiregyhaza
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/4hafzhCM/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>HUNGRÍA: NB II</h4>
+    <span>14:30</span>Cegledi - Szeged 
+    <a href="/partido/jqQQ0dw5/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:30</span>Soroksar - Siofok
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/8KzM1xOb/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Zalaegerszeg
+    <img src="/res/image/blank.gif" class="rcard-1"> - Szigetszentmiklos 
+    <a href="/partido/UZOUaGhB/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Vasas - Balmazujvaros Sport 
+    <a href="/partido/fHWH2I8h/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>18:00</span>Csakvari - Szolnoki 
+    <a href="/partido/rw3apygO/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>18:00</span>Mezokovesd - Kaposvar
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/M3Y94vvt/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>INGLATERRA: Premier League</h4>
+    <span>16:00</span>QPR - Tottenham 
+    <a href="/partido/6o9KRx2b/?d=-1" class="fin">1:2</a>
+    <br>
+    <h4>INGLATERRA: Championship</h4>
+    <span>16:00</span>Blackpool - Sheffield Wed 
+    <a href="/partido/QBTHrUaP/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Cardiff - Charlton 
+    <a href="/partido/rqCFH9Eh/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Derby - Birmingham 
+    <a href="/partido/2XKqvl8t/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>16:00</span>Huddersfield - Rotherham
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/On9hxSxg/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>16:00</span>Ipswich - Brentford 
+    <a href="/partido/WC8dynha/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Millwall - Norwich 
+    <a href="/partido/A370z675/?d=-1" class="fin">1:4</a>
+    <br>
+    <span>16:00</span>Nottingham - Middlesbrough 
+    <a href="/partido/hSd5ZPMB/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Wigan - Leeds 
+    <a href="/partido/0h0DX3iO/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Wolves
+    <img src="/res/image/blank.gif" class="rcard-1"> - Watford
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/vqaHWN6U/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>INGLATERRA: League One</h4>
+    <span>16:00</span>Barnsley - Walsall 
+    <a href="/partido/2JNCrxdk/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Coventry - Port Vale 
+    <a href="/partido/8WhDtGQ1/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>16:00</span>Crawley Town - Bristol City 
+    <a href="/partido/MZte5a32/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Crewe - Scunthorpe 
+    <a href="/partido/zwoa4JI8/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Gillingham FC - Doncaster 
+    <a href="/partido/I1z43wYE/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>MK Dons - Preston 
+    <a href="/partido/dhZ72cmL/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>16:00</span>Peterborough
+    <img src="/res/image/blank.gif" class="rcard-1"> - Leyton Orient 
+    <a href="/partido/QRwC1H2R/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Rochdale - Colchester 
+    <a href="/partido/SzQwcyBr/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Sheffield Utd - Fleetwood 
+    <a href="/partido/AaFrdeQl/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Swindon - Notts County
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/MZIneFue/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Yeovil - Oldham
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/GdIjfZf1/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>INGLATERRA: League Two</h4>
+    <span>16:00</span>Accrington
+    <img src="/res/image/blank.gif" class="rcard-1"> - Portsmouth 
+    <a href="/partido/0ldDbm9M/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Bury
+    <img src="/res/image/blank.gif" class="rcard-1"> - Oxford Utd 
+    <a href="/partido/rDoIc7OS/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Carlisle - Exeter 
+    <a href="/partido/KYxpgRWq/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>16:00</span>Cheltenham - Mansfield 
+    <a href="/partido/Eexlhonj/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Hartlepool - Burton 
+    <a href="/partido/hnyhi51d/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Luton - Morecambe
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/U3KzGlvc/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>16:00</span>Plymouth - Northampton 
+    <a href="/partido/8fJvF8g3/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Shrewsbury - Cambridge Utd 
+    <a href="/partido/2HIrES89/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Southend - Wycombe 
+    <a href="/partido/EiMnDnOF/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>16:00</span>Stevenage - Newport
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/0vo7Y88q/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Tranmere - Dagenham &amp; Red. 
+    <a href="/partido/dGBiC6wM/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>16:00</span>Wimbledon - York 
+    <a href="/partido/Mcc9aTgG/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>INGLATERRA: Vanarama Conference</h4>
+    <span>14:00</span>Wrexham - Chester 
+    <a href="/partido/zPFXPjy0/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Alfreton - Kidderminster 
+    <a href="/partido/xKhmXbPq/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Barnet - Forest Green 
+    <a href="/partido/6gciWIvj/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>16:00</span>Braintree - Gateshead 
+    <a href="/partido/ppdeVxfd/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Bristol Rovers - Eastleigh 
+    <a href="/partido/nkzvfMWd/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Dover - Lincoln 
+    <a href="/partido/0hvrgtn3/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Halifax - Dartford
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/fFwnh019/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Macclesfield - Aldershot 
+    <a href="/partido/Y5xjiKGF/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Southport - Nuneaton 
+    <a href="/partido/CjICZior/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Torquay - Telford 
+    <a href="/partido/jsHGYB0l/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Woking - Grimsby 
+    <a href="/partido/b7KOWkV0/?d=-1" class="fin">1:2</a>
+    <br>
+    <h4>INGLATERRA: Vanarama Conference North</h4>
+    <span>16:00</span>Brackley - Chorley 
+    <a href="/partido/riAqhYVC/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Harrogate - Gloucester 
+    <a href="/partido/Ms9mihoJ/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Hednesford - Boston 
+    <a href="/partido/dYGeakwt/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Hyde - Guiseley 
+    <a href="/partido/zPFab9hn/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Leamington
+    <img src="/res/image/blank.gif" class="rcard-1"> - Fylde 
+    <a href="/partido/UoF3cT7h/?d=-1" class="fin">1:4</a>
+    <br>
+    <span>16:00</span>North Ferriby - Lowestoft 
+    <a href="/partido/rkJ7dmNb/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Oxford City - Colwyn Bay 
+    <a href="/partido/QD8Ce7x5/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Stalybridge - Barrow 
+    <a href="/partido/447GfRiB/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Stockport - Solihull 
+    <a href="/partido/CU6Kgo7H/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Tamworth - Bradford PA 
+    <a href="/partido/jL5Oh5MN/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Worcester - Gainsborough 
+    <a href="/partido/YqeTiPyU/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>INGLATERRA: Vanarama Conference South</h4>
+    <span>16:00</span>Bromley - Ebbsfleet 
+    <a href="/partido/EcFSsqyI/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Chelmsford - Basingstoke 
+    <a href="/partido/rXJWt3jO/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Concord - St. Albans 
+    <a href="/partido/MNIztN5U/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Eastbourne - Gosport 
+    <a href="/partido/nops16yt/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Farnborough - Staines Town
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/pW2p0Qjn/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Hemel Hempstead
+    <img src="/res/image/blank.gif" class="rcard-1"> - Bath City 
+    <a href="/partido/vg2lap6h/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>16:00</span>Maidenhead - Boreham Wood 
+    <a href="/partido/Iq1hb4Lb/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Sutton
+    <img src="/res/image/blank.gif" class="rcard-1"> - Hayes &amp; Yeading 
+    <a href="/partido/zLeccOz5/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Wealdstone - Stortford 
+    <a href="/partido/EBf1drjB/?d=-1" class="fin">1:4</a>
+    <br>
+    <span>16:00</span>Weston - Havant &amp; W 
+    <a href="/partido/8Yg5e25H/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>INGLATERRA: Southern Premier League</h4>
+    <span>16:00</span>Banbury - Chippenham Town 
+    <a href="/partido/tISVtpcc/?d=-1" class="fin">2:4</a>
+    <br>
+    <span>16:00</span>Bideford - Redditch 
+    <a href="/partido/OtIzt4C3/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Corby - Burnham FC 
+    <a href="/partido/xpMvuOR9/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Frome - Hungerford 
+    <a href="/partido/W6LrvrsG/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Histon - Arlesey 
+    <a href="/partido/SYEixMBS/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Hitchin - Dorchester 
+    <a href="/partido/Us1JXuKq/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Paulton Rovers - Chesham 
+    <a href="/partido/O40NWaZk/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Slough - Cambridge City 
+    <a href="/partido/MkJQVJld/?d=-1" class="fin">0:4</a>
+    <br>
+    <span>16:00</span>St. Neots - Cirencester 
+    <a href="/partido/Ofc9f3Rd/?d=-1" class="fin">4:0</a>
+    <br>
+    <span>16:00</span>Truro - Biggleswade Town 
+    <a href="/partido/2odDgNt3/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Weymouth - Dunstable Town 
+    <a href="/partido/WK0Hhsd9/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>INGLATERRA: Northern Premier League</h4>
+    <span>16:00</span>Buxton - Ashton Utd 
+    <a href="/partido/rNKzayVe/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>16:00</span>Frickley - Nantwich 
+    <a href="/partido/nDUMnMAj/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Ilkeston - Grantham
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/UBE4hWPE/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Rushall - Matlock 
+    <a href="/partido/Qw8DjAfR/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Skelmersdale - Ramsbottom 
+    <a href="/partido/rJfunU2r/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Stamford - Marine 
+    <a href="/partido/fgbqolIl/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Stourbridge - Blyth 
+    <a href="/partido/xImlp8Xf/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>16:00</span>Trafford - Curzon Ashton 
+    <a href="/partido/8M74b4iC/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>United of Manchester - Kings Lynn 
+    <a href="/partido/jLF0gCA8/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Whitby - Halesowen 
+    <a href="/partido/G8nhqSn1/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Witton - Belper Town 
+    <a href="/partido/pridrn27/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Workington - Barwell 
+    <a href="/partido/OYk0s6HD/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>INGLATERRA: Ryman League</h4>
+    <span>16:00</span>Billericay - Bury Town 
+    <a href="/partido/6LHO8q14/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>16:00</span>Dulwich Hamlet - VCD Athletic 
+    <a href="/partido/0rHS73GA/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Grays - Leiston FC 
+    <a href="/partido/EoLW6NVG/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Hampton - Hendon 
+    <a href="/partido/dAAy6soN/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>16:00</span>Harrow Borough - Maidstone 
+    <a href="/partido/z19u510T/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Leatherhead - Canvey Island 
+    <a href="/partido/Sh170L8p/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Lewes
+    <img src="/res/image/blank.gif" class="rcard-2"> - Kingstonian
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/6q0BauOj/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Margate - Enfield Town 
+    <a href="/partido/8lvfOO0i/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>16:00</span>Metropolitan Police - Wingate &amp; Finchley 
+    <a href="/partido/KOsbNrGc/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>16:00</span>Tonbridge - Bognor 
+    <a href="/partido/hxt6LMpA/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Witham
+    <img src="/res/image/blank.gif" class="rcard-1"> - Hornchurch 
+    <a href="/partido/ADzBKt0G/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>INGLATERRA: FA Cup</h4>
+    <span>13:45</span>Bradford - Reading 
+    <a href="/partido/QDzN0lz3/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>18:30</span>Aston Villa
+    <img src="/res/image/blank.gif" class="rcard-1"> - West Brom
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/KzzRa8k9/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>IRAK: Super Liga</h4>
+    <span>12:30</span>Al Kahraba - Al Quwa Al Jawiya 
+    <a href="/partido/neV1N5Qs/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>12:30</span>Al Karkh - Naft Al Junoob 
+    <a href="/partido/pnqzSoIQ/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>12:30</span>Al Najaf - Al Minaa 
+    <a href="/partido/xMuST7mE/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>12:30</span>Naft Missan - Baghdad 
+    <a href="/partido/jPqWSR2K/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>IRÁN: Division 1</h4>
+    <span>12:30<span class="status">Anulado</span></span>Etka - Abbas 
+    <a href="/partido/GQqT8bsd/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>12:30</span>Fajr Sepasi - Mes 
+    <a href="/partido/lf69bHNJ/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>12:30</span>Faraz - Siah Jamegan Khorasan 
+    <a href="/partido/niuP9vSk/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>12:30</span>Foolad Yazd - Sirjan 
+    <a href="/partido/80tLAKCq/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>12:30</span>Giti Pasand - Niroye Zamini 
+    <a href="/partido/l49NzEVC/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>12:30</span>Mazandaran - Novin Ahvaz 
+    <a href="/partido/nkSQZXpJ/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>12:30</span>Parseh Tehran - Damash 
+    <a href="/partido/S2SjSnrH/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>12:30</span>Rafsanjan - Shahrdari Tabriz 
+    <a href="/partido/GSOnTSSA/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:45</span>Hormozgan - Badani Yazd 
+    <a href="/partido/Sp5DcywQ/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>13:00</span>Bushehr - Shahrdari Ardabil 
+    <a href="/partido/bTeqhF0m/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>13:00</span>Esteghlal AHV - Naft Gachsaran 
+    <a href="/partido/Kxcugeos/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>13:00</span>Sanat-Naft - Pas 
+    <a href="/partido/fHrX7Id2/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>IRLANDA: Premier League</h4>
+    <span>18:45</span>Bray - Drogheda 
+    <a href="/partido/GEi8YAGB/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>19:30</span>Limerick - Bohemians 
+    <a href="/partido/UHeCXUVH/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>20:45</span>Sligo Rovers - Cork City 
+    <a href="/partido/OveGWloO/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>IRLANDA: Division 1</h4>
+    <span>20:45</span>Cobh Ramblers - UC Dublin
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IgGvL9uh/?d=-1" class="fin">0:3</a>
+    <br>
+    <h4>IRLANDA DEL NORTE: IFA Premiership</h4>
+    <span>16:00</span>Ballinamallard - Glenavon 
+    <a href="/partido/neyA59Hh/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>16:00</span>Coleraine - Cliftonville 
+    <a href="/partido/QozE4TWb/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Crusaders - Institute 
+    <a href="/partido/K8ZH3mn5/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Linfield - Warrenpoint 
+    <a href="/partido/GzTQ1RGH/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Portadown - Glentoran 
+    <a href="/partido/fRRU0oWN/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ISLANDIA: League Cup</h4>
+    <span>12:15</span>Akranes - Grindavik 
+    <a href="/partido/4bKfV3LF/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>13:30</span>Kopavogur - Olafsvik 
+    <a href="/partido/nRuMvjx8/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Fjardabyggd - Stjarnan 
+    <a href="/partido/bLJbUNzM/?d=-1" class="fin">1:6</a>
+    <br>
+    <span>15:00</span>Hafnarfjordur - Bolungarvik 
+    <a href="/partido/ja62mrt8/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Leiknir - Akureyri 
+    <a href="/partido/xE363fW5/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>18:00</span>Vikingur Reykjavik - Grotta 
+    <a href="/partido/G42A2EoC/?d=-1" class="fin">3:3</a>
+    <br>
+    <h4>ISLAS FEROE: Effodeildin</h4>
+    <span>16:00</span>Runavik - Streymur 
+    <a href="/partido/zsTs2AtH/?d=-1" class="fin">5:1</a>
+    <br>
+    <h4>ISRAEL: Ligat ha'Al</h4>
+    <span>16:00</span>H. Haifa - H. Beer Sheva 
+    <a href="/partido/IiZKOz2i/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>17:00</span>Sakhnin - H. Raanana
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/4low0iPj/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>18:00</span>H. Petah Tikva - M. Petach Tikva 
+    <a href="/partido/p4465D1T/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>18:00</span>Netanya - H. Akko 
+    <a href="/partido/EJSTMEW3/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>18:20</span>H. Tel-Aviv - Ashdod 
+    <a href="/partido/hARXLYoA/?d=-1" class="fin">3:1</a>
+    <br>
+    <h4>ITALIA: Serie A</h4>
+    <span>18:00</span>Sampdoria - Cagliari
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/O6NLJhHH/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>20:45</span>AC Milan - Verona 
+    <a href="/partido/8dlc04Gd/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>ITALIA: Serie B</h4>
+    <span>15:00</span>Catania - Spezia 
+    <a href="/partido/pQkaM7c5/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>15:00</span>Crotone - Trapani 
+    <a href="/partido/Iwl7KoSH/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Latina - Carpi 
+    <a href="/partido/A7cnP9Dn/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>15:00</span>Livorno - Ternana 
+    <a href="/partido/vmk3LRCB/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>15:00</span>Modena - Frosinone 
+    <a href="/partido/WMoeNmra/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Perugia - Lanciano 
+    <a href="/partido/bk54J5sO/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Pescara - Vicenza 
+    <a href="/partido/6X1kjPh4/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>15:00</span>Pro Vercelli - Brescia 
+    <a href="/partido/tYhrQkbt/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Varese - Bologna 
+    <a href="/partido/vP6GUVkP/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>18:00</span>Avellino - Bari 
+    <a href="/partido/xKSX5nDO/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>ITALIA: Lega Pro - Group A</h4>
+    <span>15:00</span>Como - Monza 
+    <a href="/partido/lnfikvBe/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>15:00</span>Sudtirol - Real Vicenza 
+    <a href="/partido/fqosC1I8/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>ITALIA: Lega Pro - Group B</h4>
+    <span>16:00</span>Carrarese - Teramo 
+    <a href="/partido/j78g64Gj/?d=-1" class="fin">1:5</a>
+    <br>
+    <span>17:00</span>Forli - Tuttocuoio 
+    <a href="/partido/hCnxVmgi/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>17:00</span>Pro Piacenza - San Marino 
+    <a href="/partido/6HoMOCWH/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>17:00</span>Santarcangelo - Savona 
+    <a href="/partido/CG9k7p1p/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>19:30</span>Grosseto
+    <img src="/res/image/blank.gif" class="rcard-1"> - Pisa 
+    <a href="/partido/Wbg9REna/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>ITALIA: Lega Pro - Group C</h4>
+    <span>14:30</span>Ischia - Catanzaro 
+    <a href="/partido/8Im9Dup4/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>14:30</span>Savoia - Foggia 
+    <a href="/partido/2umDCaaA/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>Salernitana - Benevento 
+    <a href="/partido/Cjf0F1Fi/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Cosenza - Matera 
+    <a href="/partido/0Y1I9cqT/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Melfi - Paganese 
+    <a href="/partido/WGhl4y7j/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>19:30</span>Barletta - Casertana 
+    <a href="/partido/fFq5ELUc/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>ITALIA: Serie D - Group A</h4>
+    <span>14:30</span>Chieri - Vado 
+    <a href="/partido/dAnpJKam/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>ITALIA: Serie D - Group D</h4>
+    <span>14:30</span>Correggese - Mezzolara 
+    <a href="/partido/nDnlUD54/?d=-1" class="fin">4:2</a>
+    <br>
+    <span>14:30</span>Scandicci - Abano 
+    <a href="/partido/fwCRsXZ3/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>ITALIA: Serie D - Group G</h4>
+    <span>15:00</span>Castelli Romani - Terracina 
+    <a href="/partido/AH20BnFi/?d=-1" class="fin">7:1</a>
+    <br>
+    <h4>ITALIA: Serie D - Group I</h4>
+    <span>14:30</span>HinterReggio - Tiger Brolo 
+    <a href="/partido/GpOrWRqS/?d=-1" class="fin">4:1</a>
+    <br>
+    <h4>JAPÓN: J-League - Primera fase</h4>
+    <span>06:00</span>G-Osaka - Tokyo 
+    <a href="/partido/405DHbpm/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>06:00</span>Hiroshima - Kofu 
+    <a href="/partido/bN4HGIag/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>06:00</span>Nagoya - Yamaga 
+    <a href="/partido/Q969IvVt/?d=-1" class="fin">3:3</a>
+    <br>
+    <span>06:00</span>Tosu - Albirex Niigata 
+    <a href="/partido/CQ8LFxFa/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>06:00</span>Vegalta Sendai
+    <img src="/res/image/blank.gif" class="rcard-1"> - Yamagata 
+    <a href="/partido/zVnkNKMP/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>07:00</span>Yokohama M. - Kawasaki 
+    <a href="/partido/fkbQEdU5/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>08:00</span>Kobe - Kashiwa 
+    <a href="/partido/YucUDGqC/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>11:00</span>Shonan - Urawa 
+    <a href="/partido/2F1YCzaI/?d=-1" class="fin">1:3</a>
+    <br>
+    <h4>KAZAJSTÁN: Premier League</h4>
+    <span>10:00</span>Kaisar - Zhetysu 
+    <a href="/partido/E1uWbgQJ/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>10:00</span>Ordabasy - I. Pavlodar 
+    <a href="/partido/bZG2gXms/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>10:00</span>Taraz - Shakhter K. 
+    <a href="/partido/A9K6hi3m/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>11:00</span>Aktobe - Atyrau 
+    <a href="/partido/4WJAiBIg/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:00</span>FC Astana - Okzhetpes 
+    <a href="/partido/hhvzbDuQ/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>12:00</span>K. Almaty
+    <img src="/res/image/blank.gif" class="rcard-1"> - Tobol 
+    <a href="/partido/QonlzAmJ/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>KENIA: Premier League</h4>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Sony Sugar - Ushuru 
+    <a href="/partido/b7AKjVSp/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Thika Utd. - Muhoroni 
+    <a href="/partido/WCE3Dhzb/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Ulinzi Stars - Leopards 
+    <a href="/partido/baGeFE5o/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>KOSOVO: Superliga</h4>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Ferronikeli - Vellaznimi 
+    <a href="/partido/IXjqhErO/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Istogu - Drenica 
+    <a href="/partido/UBbWfGb5/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:00<span class="status canceled">Aplazado</span></span>Prishtina - Trepca Mitrovice 
+    <a href="/partido/jLaSedqa/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>KUWAIT: Premier League</h4>
+    <span>15:05</span>Al Salmiya - Al Arabi 
+    <a href="/partido/UHiJgDJ1/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>17:35</span>Al Qadisiya - Al Sulaibikhat 
+    <a href="/partido/dOq5HGB8/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>17:35</span>Khaitan
+    <img src="/res/image/blank.gif" class="rcard-1"> - Al Kuwait 
+    <a href="/partido/zFr9GzRE/?d=-1" class="fin">0:3</a>
+    <br>
+    <h4>LESOTHO: Premier League</h4>
+    <span>14:00</span>LMPS - Defence Force 
+    <a href="/partido/pEDdFtJA/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Matlama - Mpharane Celtics 
+    <a href="/partido/2kOiGM34/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:00</span>Qoaling Highlanders - Lioli 
+    <a href="/partido/O4C0E0YG/?d=-1" class="fin">0:5</a>
+    <br>
+    <h4>LITUANIA: A Lyga</h4>
+    <span>11:00</span>Stumbras - Suduva 
+    <a href="/partido/Ue8rhU06/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>13:00</span>Siauliai - Spyris Kaunas 
+    <a href="/partido/OI7nilGC/?d=-1" class="fin">1:2</a>
+    <br>
+    <h4>MALASIA: Super Liga</h4>
+    <span>13:45</span>Felda - LionsXII 
+    <a href="/partido/Uip0MfNn/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>13:45</span>Johor DT - Sarawak
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/A73TRGaP/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>13:45</span>Pahang - Sime Darby 
+    <a href="/partido/d4Fo3XMO/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>13:45</span>PDRM FA - Selangor 
+    <a href="/partido/25r8KYia/?d=-1" class="fin">1:4</a>
+    <br>
+    <span>13:45</span>Terengganu - ATM FA 
+    <a href="/partido/8rq4LExg/?d=-1" class="fin">2:2</a>
+    <br>
+    <h4>MALTA: Premier League - Segunda fase</h4>
+    <span>14:00</span>Balzan Youths - Floriana 
+    <a href="/partido/byOjTKZ5/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>14:00</span>Mosta FC - Qormi 
+    <a href="/partido/61RbRb4I/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>16:00</span>Hibernians - Pieta Hotspurs 
+    <a href="/partido/CvSfSvkC/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:15</span>Birkirkara - Sliema
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/phQ2QIJO/?d=-1" class="fin">4:2</a>
+    <br>
+    <h4>MARRUECOS: Botola (GNFE1)</h4>
+    <span>15:30</span>Agadir - FAR Rabat 
+    <a href="/partido/QuXYnb7U/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Kenitra - Moghreb Tétouan 
+    <a href="/partido/462q71hn/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>16:00</span>Khouribga - Raja Casablanca 
+    <a href="/partido/QF3u8swt/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>19:30</span>Wydad Casablanca - Berkane 
+    <a href="/partido/CW5i5uNb/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>MARRUECOS: Elite 2</h4>
+    <span>16:00</span>Fes - Dcheira 
+    <a href="/partido/pYiu6JD8/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Houara - Meknes 
+    <a href="/partido/zNUDokSg/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Mouloudia Oujda - Widad Temara 
+    <a href="/partido/AuNQrmCC/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Sale - RAC Casablanca 
+    <a href="/partido/29W5mBcs/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Tadla - Jeunesse 
+    <a href="/partido/t0V9nVCm/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>16:00</span>Tanger - Union de Mohammédia 
+    <a href="/partido/WlOMqTd6/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>US Témara - Union Ait Melloul 
+    <a href="/partido/OOjq5wTE/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Youssoufia Berrechid - Raja Beni Mellal 
+    <a href="/partido/lQYHp9s0/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>MAURITANIA: Championnat D1</h4>
+    <span>17:00</span>Ittihad Assaba - Gueumeul 
+    <a href="/partido/G86z1JpU/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>17:00</span>Kedia - Selibaby 
+    <a href="/partido/IHh2dwgo/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>17:00</span>Ksar - SNIM 
+    <a href="/partido/d2Or5Vdo/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>17:00</span>Moderne Kaedi - Tevr. Zeina 
+    <a href="/partido/8r3S2uGH/?d=-1" class="fin">1:4</a>
+    <br>
+    <span>17:00</span>Nouadhibou - Zem Zem 
+    <a href="/partido/Mo7W1aVN/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>17:00</span>Tidjikja - ASAC Concorde 
+    <a href="/partido/zgNn4kCi/?d=-1" class="fin">3:1</a>
+    <br>
+    <h4>MÉXICO: Liga MX - Clausura</h4>
+    <span>02:00</span>Veracruz - León
+    <img src="/res/image/blank.gif" class="rcard-3"> 
+    <a href="/partido/xrPcTwd5/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>02:30</span>Querétaro - Guadalajara 
+    <a href="/partido/Q7LgUJta/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>MÉXICO: Ascenso MX - Clausura</h4>
+    <span>00:00</span>Lobos BUAP - Altamira 
+    <a href="/partido/I1Qs4tu7/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>02:30</span>Zacatecas - Atlante 
+    <a href="/partido/dhPo30fD/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>03:30</span>Correcaminos U.A.T. - Irapuato 
+    <a href="/partido/ObDTRqXD/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>MUNDIAL: Amistosos de Clubs</h4>
+    <span>14:00</span>Falkenbergs (Swe) - Utsiktens (Swe) 
+    <a href="/partido/fwYPkLKd/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>14:00</span>Lilleström (Nor) - Fredrikstad (Nor)
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/jTgywC30/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Qviding (Swe) - GAIS (Swe) 
+    <a href="/partido/j57qsTGd/?d=-1" class="fin">2:3</a>
+    <br>
+    <h4>NAMIBIA: MTC Premiership</h4>
+    <span>12:30</span>Blue Waters - African Stars 
+    <a href="/partido/MmzaZFIa/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:30</span>United Stars - Civics 
+    <a href="/partido/GAZ2YZX5/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Benfica - Tigers 
+    <a href="/partido/CxTBWD2I/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:00</span>Mighty Gunners - Black Africa 
+    <a href="/partido/jTRFVXHO/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>Touch &amp; Go - Rebels 
+    <a href="/partido/UDw7XgmC/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>15:00</span>Eleven Arrows - Tura Magic 
+    <a href="/partido/vqLcfHfP/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>15:00</span>Julinho Sporting - Citizens 
+    <a href="/partido/th7Pky3t/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Orlando Pirates - UNAM 
+    <a href="/partido/OGdUleIn/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>NIGER: Ligue 1</h4>
+    <span>16:00<span class="status canceled">Aplazado</span></span>ASFAN - Kandadji 
+    <a href="/partido/KnGVrRRA/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>16:00<span class="status canceled">Aplazado</span></span>Douanes Niamey - ASGNN 
+    <a href="/partido/QPGRq7C4/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>NIGERIA: Premier League</h4>
+    <span>14:00</span>Dolphin - Kwara
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/YXfdcPsn/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>14:00</span>Sharks - Sunshine Stars 
+    <a href="/partido/WhzQjuRT/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00<span class="status canceled">Aplazado</span></span>Heartland - Kano 
+    <a href="/partido/OSWHh1dH/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>NUEVA ZELANDA: Campeonato Fútbol de Nueva Zelanda</h4>
+    <span>02:00</span>Wellington Phoenix - Canterbury 
+    <a href="/partido/04UjrOhf/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>PARAGUAY: Primera División - Apertura</h4>
+    <span>00:10</span>Sol de América - Sp. Luqueño 
+    <a href="/partido/xrgccXFk/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>22:00</span>Olimpia Asunción - Libertad 
+    <a href="/partido/bifgbD0q/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>23:15</span>Rubio Ñú - Gral. Díaz 
+    <a href="/partido/44PgdiVe/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>PERÚ: Torneo del Inca</h4>
+    <span>02:00</span>U. San Martín - Sporting Cristal 
+    <a href="/partido/r5LWlAX2/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>18:30</span>Ayacucho - A. Lima 
+    <a href="/partido/pIJomTDj/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>21:00</span>Dep. Municipal - Melgar 
+    <a href="/partido/GbTpR6ud/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>POLONIA: Ekstraklasa</h4>
+    <span>15:30</span>Piast - Gornik Z. 
+    <a href="/partido/0vNeK4sG/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>15:30</span>Wisla - Zawisza
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/AkUrN6cc/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>18:00</span>Lechia
+    <img src="/res/image/blank.gif" class="rcard-1"> - Belchatow 
+    <a href="/partido/WbVvOnri/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>POLONIA: Division 1</h4>
+    <span>13:00</span>Olsztyn - Bytow 
+    <a href="/partido/MqKYGgSb/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>14:00<span class="status canceled">Aplazado</span></span>Widzew Lodz - Sandecja 
+    <a href="/partido/23y4WYRo/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>15:00</span>Chojniczanka
+    <img src="/res/image/blank.gif" class="rcard-1"> - Chrobry Glogow
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/jP7oEiCH/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Legnica - Zabki 
+    <a href="/partido/l0mM7kko/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>15:00</span>Swinoujscie - Ol. Grudziadz 
+    <a href="/partido/UF6kDBRN/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>17:45</span>Plock - Zaglebie 
+    <a href="/partido/ra8sFXdB/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>POLONIA: Division 2</h4>
+    <span>13:00</span>Brzesko
+    <img src="/res/image/blank.gif" class="rcard-1"> - Sosnowiec
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/pnaNxOJp/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>13:00</span>Puszcza - Stal Mielec
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IHCWn8sh/?d=-1" class="fin">3:3</a>
+    <br>
+    <span>14:00</span>Raków - Walbrzych 
+    <a href="/partido/nc4mqQtH/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>15:00</span>Legionowo
+    <img src="/res/image/blank.gif" class="rcard-1"> - Kotwica Kolobrzeg 
+    <a href="/partido/OxbRyrZj/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>15:00</span>Rozwój Katowice
+    <img src="/res/image/blank.gif" class="rcard-1"> - S. Wola 
+    <a href="/partido/865qp6RA/?d=-1" class="fin">1:5</a>
+    <br>
+    <h4>PORTUGAL: Primeira Liga</h4>
+    <span>20:15</span>Setubal
+    <img src="/res/image/blank.gif" class="rcard-1"> - Belenenses 
+    <a href="/partido/SYtcJwSR/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>PORTUGAL: Segunda Liga</h4>
+    <span>14:30</span>Marítimo B - Academico Viseu 
+    <a href="/partido/YBgNxu9R/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Covilha - Freamunde 
+    <a href="/partido/vkfJwLgL/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Feirense
+    <img src="/res/image/blank.gif" class="rcard-1"> - Trofense 
+    <a href="/partido/ShiWHwX1/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>16:00</span>Leixoes
+    <img src="/res/image/blank.gif" class="rcard-2"> - Braga B
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/0beFv1vF/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>16:00</span>Oliveirense - Atletico 
+    <a href="/partido/KnvIusP8/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Oriental
+    <img src="/res/image/blank.gif" class="rcard-1"> - Aves 
+    <a href="/partido/AXpkYbHr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Sporting B - Tondela 
+    <a href="/partido/tduEtN92/?d=-1" class="fin">4:3</a>
+    <br>
+    <span>17:00</span>Beira Mar - Guimaraes B 
+    <a href="/partido/EkmSIJHe/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>17:00</span>Farense
+    <img src="/res/image/blank.gif" class="rcard-1"> - Olhanense 
+    <a href="/partido/0r7iPLvS/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>17:00</span>Santa Clara - Benfica B
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/WQcNJa2k/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>QATAR: Qatar Stars League</h4>
+    <span>16:00</span>Al Arabi - Al-Wakra 
+    <a href="/partido/rJvBlKHJ/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>16:00</span>Lakhwiya - Al-Kharitiyath 
+    <a href="/partido/dMrFmvXP/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>18:15</span>Al Jaish - Qatar SC 
+    <a href="/partido/E1Vtqbus/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>18:15</span>Al-Sadd - Al Ahli Doha 
+    <a href="/partido/hhUprIfm/?d=-1" class="fin">3:3</a>
+    <br>
+    <h4>REPÚBLICA CHECA: Synot liga</h4>
+    <span>14:00</span>Mlada Boleslav - Ceske Budejovice 
+    <a href="/partido/2ZND06Ih/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>17:00</span>Bohemians 1905 - Pribram
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/KAY81n3n/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>17:00</span>Jihlava - Jablonec
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/67U42Smt/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>17:00</span>Slovacko - Hradec Kralove 
+    <a href="/partido/tQMHaQXb/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>20:15</span>Liberec - Teplice 
+    <a href="/partido/8hhcudnp/?d=-1" class="fin">0:2</a>
+    <br>
+    <span>20:15<span class="status canceled">Aplazado</span></span>Plzen - Slavia Praga 
+    <a href="/partido/EizPc42B/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>REPÚBLICA CHECA: FNL</h4>
+    <span>10:15</span>Pardubice - Varnsdorf 
+    <a href="/partido/jwR7O7Ym/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>10:15</span>Trinec - Most 
+    <a href="/partido/b3UFMo30/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Mas Taborsko - Frydek-Mistek 
+    <a href="/partido/YLMSJqmJ/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Sigma Olomouc - Sokolov 
+    <a href="/partido/xfTJL5I6/?d=-1" class="fin">7:0</a>
+    <br>
+    <span>14:30</span>Vlasim
+    <img src="/res/image/blank.gif" class="rcard-1"> - Znojmo 
+    <a href="/partido/fVNOKPXC/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>REPÚBLICA CHECA: CFL</h4>
+    <span>10:15</span>Bohemians Praga - Vltavin 
+    <a href="/partido/faoQdzz6/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>10:15</span>Chomutov - Zapy 
+    <a href="/partido/4AhDaxjm/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>10:15</span>Pisek - Kraluv Dvur 
+    <a href="/partido/xOjLcGKa/?d=-1" class="fin">2:1pen.</a>
+    <br>
+    <h4>REPÚBLICA CHECA: Division A</h4>
+    <span>10:15</span>Aritma Prague - Hvezda Cheb 
+    <a href="/partido/juSxOuWK/?d=-1" class="fin">5:0</a>
+    <br>
+    <span>10:30</span>Zlicin - Rokycany 
+    <a href="/partido/M5NYOLGE/?d=-1" class="fin">2:4</a>
+    <br>
+    <span>14:30</span>Cizova - Mas Taborsko B 
+    <a href="/partido/UVQtNaoR/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Doubravka - Milevsko 
+    <a href="/partido/zD39IJgr/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>14:30</span>Horovicko - Marianske Lazne 
+    <a href="/partido/rFOUP118/?d=-1" class="fin">4:1</a>
+    <br>
+    <span>14:30</span>Klatovy - Cesky Krumlov 
+    <a href="/partido/MT5LFHw1/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Tachov - Karlovy Vary 
+    <a href="/partido/lG7DHw9l/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>REPÚBLICA CHECA: Division B</h4>
+    <span>10:15</span>Libis - Litol 
+    <a href="/partido/MB0iNiYt/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>14:30</span>Motorlet Prague - Lovosice 
+    <a href="/partido/nJoHHm2I/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>14:30</span>Nove Straseci - Krupka 
+    <a href="/partido/Iwf0LV2g/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>14:30</span>Novy Bor - Horni Mecholupy 
+    <a href="/partido/zF4eMBmm/?d=-1" class="fin">1:2pen.</a>
+    <br>
+    <h4>REPÚBLICA CHECA: Division C</h4>
+    <span>14:30</span>Ceska Trebova - Trutnov 
+    <a href="/partido/fgvKaC9T/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>14:30</span>Cesky Brod - Letohrad 
+    <a href="/partido/St9YIZ9i/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>14:30</span>Tyniste n. Orl. - Kutna Hora 
+    <a href="/partido/0zHneWHp/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>14:30</span>Vysoké Mýto - Nachod 
+    <a href="/partido/EwLjfjXj/?d=-1" class="fin">0:1pen.</a>
+    <br>
+    <span>14:30</span>Zivanice - Dobrovice 
+    <a href="/partido/G2uG0hfN/?d=-1" class="fin">1:0pen.</a>
+    <br>
+    <h4>REPÚBLICA DE MACEDONIA: Prva Liga</h4>
+    <span>14:00</span>Rabotnicki - Turnovo 
+    <a href="/partido/h8GHgSOK/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>RUANDA: National Football league</h4>
+    <span>14:30</span>APR - Police 
+    <a href="/partido/zubkLLu6/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:30</span>Espoir - Rayon Sport 
+    <a href="/partido/I33pM1Qa/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>14:30</span>Marines - Mukura Victory Sports 
+    <a href="/partido/vD4tNsBg/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>RUMANÍA: Liga I</h4>
+    <span>17:00</span>Otelul
+    <img src="/res/image/blank.gif" class="rcard-1"> - FC Brasov 
+    <a href="/partido/YgbJBm8O/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>19:30</span>Astra - Botosani
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/xS4AD9wC/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>RUMANÍA: Division 2/Serie 1</h4>
+    <span>10:00</span>Academica Arges - Balotesti
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/p6iu3b80/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>10:00</span>Buzau - Braila 
+    <a href="/partido/j3fm1xwD/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>10:00</span>F. Constanta
+    <img src="/res/image/blank.gif" class="rcard-1"> - Dorohoi 
+    <a href="/partido/Uggi0dhJ/?d=-1" class="fin">3:3</a>
+    <br>
+    <span>10:00</span>Rapid Suceava - Berceni 
+    <a href="/partido/Oj3W4Kwl/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>10:00</span>SC Bacau - Slobozia 
+    <a href="/partido/2s2z4vgf/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>10:00<span class="status">Anulado</span></span>Voluntari - Navodari 
+    <a href="/partido/dteq2IN6/?d=-1" class="fin">-:-</a>
+    <br>
+    <h4>RUMANÍA: Division 2/Serie 2</h4>
+    <span>10:00</span>Bihor
+    <img src="/res/image/blank.gif" class="rcard-1"> - ACS Poli Timisoara 
+    <a href="/partido/Um00STg2/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>10:00</span>Caransebes - Pancota 
+    <a href="/partido/Gr5KXOVs/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>10:00</span>Olt Slatina - Ramnicu Valcea 
+    <a href="/partido/dfhnjXo9/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>10:00</span>Satu Mare - Metalul Resita 
+    <a href="/partido/rilriDW2/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>10:00</span>Tarlungeni - Mioveni 
+    <a href="/partido/vJsiki1F/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>RUSIA: Premier League</h4>
+    <span>14:00</span>Terek - CSKA Moscú 
+    <a href="/partido/Crr2EBa7/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>17:00</span>Zenit St. Petersburg - Ural 
+    <a href="/partido/vkzlxFiE/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>RUSIA: Youth League</h4>
+    <span>10:00</span>Spartak Moscú Sub-21 - Krasnodar Sub-21 
+    <a href="/partido/6y63SIv6/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>13:00</span>Dinamo Moscú Sub-21 - Ufa Sub-21 
+    <a href="/partido/OhEnW0us/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>13:30</span>FK Rostov Sub-21 - Lokomotiv Moscú Sub-21 
+    <a href="/partido/KK7eUvAg/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>SAN MARINO: Campionato Sammarinese</h4>
+    <span>15:00</span>Cailungo - Juvenes/Dogana 
+    <a href="/partido/ppScY6n1/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>15:00</span>Cosmos - Murata 
+    <a href="/partido/fF9leUgE/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>15:00</span>Faetano - Tre Fiori 
+    <a href="/partido/tCL6WpHD/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>15:00</span>Pennarossa - Folgore 
+    <a href="/partido/S8H2XQ17/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>SENEGAL: Ligue 1</h4>
+    <span>17:00</span>Ouakam - Mbour 
+    <a href="/partido/M7ASZwso/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>17:30</span>Casa - Guediawaye 
+    <a href="/partido/WxhJd1lb/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>17:30</span>Diambars - Pikine 
+    <a href="/partido/xGhFcsZi/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>17:30</span>Linguere - Douanes 
+    <a href="/partido/OClBbNJo/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>18:00</span>Niary Tally - Port de Dakar 
+    <a href="/partido/CYOdu0JN/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>SERBIA: Super Liga</h4>
+    <span>13:30</span>Cukaricki - Borac 
+    <a href="/partido/jPweZ8sA/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>13:30</span>Mladost - Sp. Subotica 
+    <a href="/partido/48yqxBci/?d=-1" class="fin">3:2</a>
+    <br>
+    <span>13:30</span>Rad - FK Vozdovac 
+    <a href="/partido/YmTaYSdG/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>13:30</span>Radnicki 1923 - Novi Pazar 
+    <a href="/partido/xMZjzkS3/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>13:30</span>Radnicki Nis - Jagodina 
+    <a href="/partido/QPW3E75p/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>17:00</span>Donji Srem - Partizan 
+    <a href="/partido/CvS3XnCM/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>18:00</span>Estrella Roja - Vojvodina 
+    <a href="/partido/4GV7DRKj/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>SINGAPUR: S.League</h4>
+    <span>13:15</span>Brunei DPMM - Albirex Niigata 
+    <a href="/partido/naTIx73p/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>SUDÁFRICA: Premier League</h4>
+    <span>14:30</span>Kaizer - Orlando 
+    <a href="/partido/dtqGUbhn/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>17:00</span>Supersport - Ajax Cape Town 
+    <a href="/partido/j3rKTI7h/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>19:15</span>Black Aces - Amazulu 
+    <a href="/partido/nVyTRdx5/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>19:15</span>Free State Stars - Mamelodi
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/46nOSxNb/?d=-1" class="fin">0:2</a>
+    <br>
+    <h4>SUDÁFRICA: First Division</h4>
+    <span>13:00</span>FC Cape Town - Witbank 
+    <a href="/partido/j9Jd9Ji5/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:30</span>Black Leopards - Vasco Da Gama 
+    <a href="/partido/fsQmBuNh/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:30</span>Golden Arrows - Jomo Cosmos 
+    <a href="/partido/x6FhAaxa/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>14:30</span>Milano Utd - Baroka 
+    <a href="/partido/OMH47cMH/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:30</span>Thanda - Santos 
+    <a href="/partido/pWI08w7B/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>SUECIA: Svenska Cupen</h4>
+    <span>13:00</span>AIK Stockholm - Hammarby 
+    <a href="/partido/lMl5vMBn/?d=-1" class="fin">1:2</a>
+    <br>
+    <span>13:00</span>Landskrona - Kristianstads 
+    <a href="/partido/2Ph9wtRh/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>14:00</span>Hacken - Mjallby 
+    <a href="/partido/WO87nyAN/?d=-1" class="fin">4:2</a>
+    <br>
+    <span>14:00</span>Östers - Huddinge 
+    <a href="/partido/hY93mHfH/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>16:00</span>Assyriska FF - Hudiksvalls 
+    <a href="/partido/f1K7L757/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>16:00</span>Malmö - Jonkopings 
+    <a href="/partido/GAL3Mmj1/?d=-1" class="fin">4:0</a>
+    <br>
+    <h4>SUIZA: Super League</h4>
+    <span>17:45</span>Grasshoppers - Luzern 
+    <a href="/partido/pfsG6Aqr/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Basilea - Thun 
+    <a href="/partido/SEflBjyR/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>SUIZA: Challenge League</h4>
+    <span>16:00</span>Servette - Winterthur 
+    <a href="/partido/00AUvjW4/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>17:45</span>Wil - Chiasso 
+    <a href="/partido/ABHHshnn/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>SWAZILANDIA: MTN Premier League</h4>
+    <span>14:00</span>Green M. - Manzini Sundowns 
+    <a href="/partido/UizRuqdt/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>Malanti Chiefs - Moneni Pirates 
+    <a href="/partido/SrlapPmP/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>Manzini Wanderers - Young Buffaloes 
+    <a href="/partido/CGPVv3Bn/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>Mbabane Highlanders - Mbabane Swall. 
+    <a href="/partido/OjTZwNQh/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>Red Lions - Royal Leopards 
+    <a href="/partido/0xdDMLeI/?d=-1" class="sched">-:-</a>
+    <br>
+    <span>14:00</span>RSSC Utd - Manzini Sea Birds 
+    <a href="/partido/vTfHLuBO/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>TAILANDIA: Thai Premier League</h4>
+    <span>12:00</span>Chiangrai - Nakhon Ratchasima 
+    <a href="/partido/MeUcURX3/?d=-1" class="fin">4:2</a>
+    <br>
+    <span>12:00</span>Sisaket - Saraburi 
+    <a href="/partido/Egm774Qj/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>13:00</span>Siam Navy - Bangkok Glass 
+    <a href="/partido/0nT1TomA/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>13:00</span>Suphanburi - Buriram 
+    <a href="/partido/8CW9RPHM/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:00</span>Muangthong - Thai Port 
+    <a href="/partido/SdykWm3i/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>14:05</span>Bangkok Utd - Osotsapa
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/SdDtM3up/?d=-1" class="fin">1:0</a>
+    <br>
+    <h4>TANZANIA: Ligi Kuu Bara</h4>
+    <span>14:00<span class="status canceled">Aplazado</span></span>Azzam - Mbeya City 
+    <a href="/partido/8pUyV2y9/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>14:00</span>Coastal Union - Kagera Sugar 
+    <a href="/partido/hbNPJxT7/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>14:00</span>Ruvu Stars - Azzam 
+    <a href="/partido/tEG7rM58/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>16:00</span>Polisi M. - Ruvu Shooting 
+    <a href="/partido/E7OLKID1/?d=-1" class="sched">-:-</a>
+    <br>
+    <h4>TURQUÍA: Super Lig</h4>
+    <span>12:30</span>Erciyesspor
+    <img src="/res/image/blank.gif" class="rcard-1"> - Genclerbirligi 
+    <a href="/partido/p8CmWr32/?d=-1" class="fin">2:4</a>
+    <br>
+    <span>15:00</span>Balikesirspor - Rizespor 
+    <a href="/partido/I1O57aQ1/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>18:00</span>Eskisehirspor - Bursaspor 
+    <a href="/partido/vBP18uBe/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>TURQUÍA: PTT 1. Lig</h4>
+    <span>13:00</span>Denizlispor - Alanyaspor 
+    <a href="/partido/ERdrKEL6/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>15:30</span>Orduspor - Sanliurfaspor 
+    <a href="/partido/8UgzMzif/?d=-1" class="fin">0:5</a>
+    <br>
+    <h4>TURQUÍA: TFF 2. Lig Red Group</h4>
+    <span>12:30</span>Goztepe - Bugsasspor 
+    <a href="/partido/AJRvoSea/?d=-1" class="fin">2:0</a>
+    <br>
+    <h4>TURQUÍA: TFF 3. Lig Group 1</h4>
+    <span>12:00</span>Batman Petrolspor - Nigde Bld. 
+    <a href="/partido/zJjN0uwH/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>12:00</span>Trabzon Akcaabat - Tire 
+    <a href="/partido/vicE2184/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>12:30</span>Bozuyukspor - Catalca 
+    <a href="/partido/MFnJ1LNA/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>12:30</span>Bursa Niluferspor
+    <img src="/res/image/blank.gif" class="rcard-1"> - Evrenseki 
+    <a href="/partido/00bA3sgb/?d=-1" class="fin">3:0</a>
+    <br>
+    <span>12:30</span>Corum
+    <img src="/res/image/blank.gif" class="rcard-1"> - Istanbulspor 
+    <a href="/partido/hza64Nwh/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>12:30</span>Gaziosmanpasa - Ankara Adliyespor 
+    <a href="/partido/zJUio0wU/?d=-1" class="fin">3:1</a>
+    <br>
+    <span>12:30</span>Kizilcabolukspor - Kirikhanspor 
+    <a href="/partido/CvMJtKoo/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>12:30</span>Tutap Sekerspor - Tuzlaspor 
+    <a href="/partido/Eq0253Oo/?d=-1" class="fin">2:3</a>
+    <br>
+    <span>12:30</span>Zonguldak
+    <img src="/res/image/blank.gif" class="rcard-1"> - Darica Genclerbirligi 
+    <a href="/partido/UujRaahN/?d=-1" class="fin">1:1</a>
+    <br>
+    <h4>TURQUÍA: TFF 3. Lig Group 2</h4>
+    <span>12:00</span>Arsinspor - Aksarayspor 
+    <a href="/partido/ATGHFtYg/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>12:00</span>Erzincan
+    <img src="/res/image/blank.gif" class="rcard-1"> - Golcukspor 
+    <a href="/partido/xGI9H23s/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>12:00</span>Y. Diyarbakirspor - Eyupspor 
+    <a href="/partido/2NRsMreQ/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:30</span>Cankiri - Cine M. 
+    <a href="/partido/WxIDGMIm/?d=-1" class="fin">2:4</a>
+    <br>
+    <span>12:30</span>Derince Bld. - Yesil Bursa 
+    <a href="/partido/t8wZN4QD/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:30</span>Maltepespor - Halide E. 
+    <a href="/partido/0I9UCvIC/?d=-1" class="fin">0:1</a>
+    <br>
+    <span>12:30</span>Payas Bld. - Dardanelspor 
+    <a href="/partido/S4BME0m0/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:30</span>Sivas 4 Eylul - Sancaktepe 
+    <a href="/partido/KbxwNOuK/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>12:30</span>Tekirova Belediyespor - Denizli Belediye
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/6eAQDK26/?d=-1" class="fin">3:0</a>
+    <br>
+    <h4>TURQUÍA: TFF 3. Lig Group 3</h4>
+    <span>12:00</span>Belediye Vanspor - Erzurum BB 
+    <a href="/partido/OEDT3Pq4/?d=-1" class="fin">1:1</a>
+    <br>
+    <span>12:30</span>Balcova Yasamspor - Kayseri Sekerspor 
+    <a href="/partido/SnKK5oFi/?d=-1" class="fin">1:3</a>
+    <br>
+    <span>12:30</span>Bergama Bld. - Silivrispor 
+    <a href="/partido/CxV5pyqq/?d=-1" class="fin">3:3</a>
+    <br>
+    <span>12:30</span>Beylerbeyi - Bayburt
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/IyDX2qaA/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>12:30</span>Etimesgut - Ankarademirspor 
+    <a href="/partido/jTT9qebk/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>12:30</span>Gungoren - Erzin 
+    <a href="/partido/pOEP45Uc/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>12:30</span>Orhangazispor - Kahramanmaras Bld 
+    <a href="/partido/ldLG6Rao/?d=-1" class="fin">0:3</a>
+    <br>
+    <span>12:30</span>Sakaryaspor - Anadolu Uskudar 
+    <a href="/partido/bgTDrFDe/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>12:30</span>Sandıklıspor - Ayvalikgucu 
+    <a href="/partido/WvHy23EG/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>UCRANIA: Premier League</h4>
+    <span>13:00</span>Mariupol - Zorya 
+    <a href="/partido/MJCp2kRj/?d=-1" class="fin">2:1</a>
+    <br>
+    <span>16:00</span>Metalist Kharkiv
+    <img src="/res/image/blank.gif" class="rcard-1"> - Shakhtar 
+    <a href="/partido/rPcuOWmA/?d=-1" class="fin">2:2</a>
+    <br>
+    <span>18:30</span>M. Zaporozhye - M. Donetsk 
+    <a href="/partido/lQ4WPhJc/?d=-1" class="fin">0:1</a>
+    <br>
+    <h4>URUGUAY: Primera División - Clausura</h4>
+    <span>20:00</span>Danubio - Wanderers
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/bokNplr4/?d=-1" class="fin">0:0</a>
+    <br>
+    <span>20:00</span>Defensor Sp. - Fénix
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/ngG3qvnU/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>20:00</span>Sud America - Rentistas 
+    <a href="/partido/6wXFnADi/?d=-1" class="fin">2:3</a>
+    <br>
+    <h4>USA: MLS</h4>
+    <span>04:00</span>Los Angeles Galaxy - Chicago Fire 
+    <a href="/partido/GI5hC9im/?d=-1" class="fin">2:0</a>
+    <br>
+    <span>21:00</span>DC United - Montreal 
+    <a href="/partido/pILjL4zI/?d=-1" class="fin">1:0</a>
+    <br>
+    <span>22:00</span>Philadelphia - Colorado Rapids
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/67b597y6/?d=-1" class="fin">0:0</a>
+    <br>
+    <h4>VENEZUELA: Primera División - Clausura</h4>
+    <span>23:30</span>Zamora - La Guaira
+    <img src="/res/image/blank.gif" class="rcard-1"> 
+    <a href="/partido/8rJWfCtM/?d=-1" class="fin">2:1</a>
+    <br>
+    <h4>YEMEN: Division 1</h4>
+    <span>13:30<span class="status canceled">Aplazado</span></span>Al Ahli Sana´a - Shaab Ibb 
+    <a href="/partido/vLtapCKi/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:30<span class="status canceled">Aplazado</span></span>Al Shula - Al Oruba Zabid 
+    <a href="/partido/OCbCM8Sp/?d=-1" class="fin">-:-</a>
+    <br>
+    <span>13:30<span class="status canceled">Aplazado</span></span>Shabab Al Jeel - Al-Ittihad 
+    <a href="/partido/QHxeoh5o/?d=-1" class="fin">-:-</a>
+    <br>
+   </div>
+   <p class="advert-bottom"><a href="http://www.bet365.com/home/?affiliate=365_085392" target="_blank">¡Apuestas deportivas en tu móvil con bet365!</a></p>
+   <p class="p-set line-bottom refresh-bottom"><a href="/?d=-1&amp;s=1">REFRESH</a></p>
+   <p class="p-set line-bottom"><a href="/" class="active">Fútbol</a> | <a href="/hockey/">Hockey</a> | <a href="/tenis/">Tenis</a> | <a href="/baloncesto/">Baloncesto</a> | <a href="/balonmano/">Balonmano</a> | <a href="/voleibol/">Voleibol</a> | <a href="/beisbol/">Béisbol</a> | <a href="/futbol-americano/">Fútbol Amer.</a> | <a href="/rugby/">Rugby</a> | <a href="/otros">Más deportes&nbsp;»</a></p>
+   <p class="p-set line-bottom"><a href="#top">Arriba</a></p>
+   <p>m.MisMarcadores.com ofrece resultados de fútbol en directo - livescore móvil. Esta versión móvil presenta diferencias respecto a MisMarcadores.com por razones técnicas.</p>
+  </div> 
+  <div class="footer">
+   Copyright © 2006-15 m.MisMarcadores.com
+  </div>
+  <div class="toTouchVersion">
+   <a href="http://t.mismarcadores.com">Cambiar a la versión táctil</a>
+  </div> 
+  <script type="text/javascript">
+	<!--
+		if (/android/i.test(navigator.userAgent))
+		{
+			var callback = function()
+			{
+				loadFile("/res/script/part/jquery.smartbanner.js", showSmartBanner);
+			};
+			loadFile("http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js", callback);
+		}
+
+		function loadFile(url, callback)
+		{
+			var element = document.createElement("script");
+			element.setAttribute("type","text/javascript");
+			element.setAttribute("src", url);
+			element.onload = callback;
+			document.getElementsByTagName("head")[0].appendChild(element);
+		};
+
+		function showSmartBanner()
+		{
+			var url = "http://play.google.com/store/apps/details?id=eu.livesport.MisMarcadores_com&referrer=utm_source%3Dweb%26utm_medium%3Dmobi_smartbanner";
+			$.smartbanner({
+				title: "MisMarcadores",
+				author: "Aplicación para Android",
+				price: "GRATUITA",
+				//button: "DESCÁRGALA AQUÍ",
+				inGooglePlay: "",
+				force: "android",
+				daysHidden: 7,
+				daysReminder: 0,
+				icon: "/res/image/android-smart-banner-icon.png",
+				url: url,
+			});
+		};
+
+	-->
+	</script> 
+  <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-821699-40']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script> 
+  <span id="mlc-4ck3s9wd8c"></span> 
+  <span id="mlc-aks81bkdz"></span>   
+ </body>
+</html>

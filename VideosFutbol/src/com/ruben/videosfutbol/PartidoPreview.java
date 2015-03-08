@@ -1,12 +1,14 @@
 package com.ruben.videosfutbol;
 
+import java.io.Serializable;
+
 /**
  * Esta clase sera para representar los partidos que se mostrarn en listView en las pestañas de: ayer,hoy,mañana
  * Solo tendra los datos basicos que podeos obtener desde la pagina m.mismarcadores.com
  * Para los datos ya mas detallados del partido tenemos la clase Partido a la que le pasaremos como parametro
  * su PartidoPreview correspondiente.
  */
-public abstract class PartidoPreview {
+public abstract class PartidoPreview implements Serializable{
 
 	protected int numDia; //esto sera -1,0,1 dependiendo si el partido es de ayer,hoy,mañana
 	protected String id;

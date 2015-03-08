@@ -10,6 +10,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
+import android.os.AsyncTask;
+
 public class Dia {
     //Los nombres de las ligas tienen que estar en orden alfabetico, que es el orden en que aparecen en m.mismarcadores.com, si ellos cambiaran el criterio
     //de ordenacion yo tambien tendria que cambiar el orden en el que pongo los strings de las ligas en el siguiente array.
@@ -19,6 +21,7 @@ public class Dia {
                               "INGLATERRA: Premier League",
                               "ITALIA: Serie A"};
      
+     private MyFragment fragment;
      private int numDia;
      
      private ArrayList<PartidoPreview> alemania = new ArrayList<PartidoPreview>();
@@ -32,14 +35,15 @@ public class Dia {
      private ArrayList<PartidoPreview>[] partidos = new ArrayList[5];
      
      private int partidosTotales;
-     
+     private Document doc;
      
 	/**
      * De momento esto funciona porque solo hay 3 dias, ayer(-1), hoy(0), y mañana(1)
      * asi que numDia valdra: -1,0,1.
      * @throws IOException 
      */
-    public Dia(int numDia) throws IOException{
+    public Dia(MyFragment fragment, int numDia){
+    	this.fragment = fragment;
     	this.numDia = numDia;
     	this.partidosTotales = 0;
     	
@@ -49,11 +53,34 @@ public class Dia {
         partidos[3]=inglaterra;
         partidos[4]=italia;
         
-    	extraerFixtures();
+    	new MyTask().execute(); //Para conectarse a internet hay que utilizar una AsyncTask
     }
     
-    public void extraerFixtures() throws IOException{        
-        Document doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
+    private class MyTask extends AsyncTask<Void, Void, Void>{
+
+		@Override
+		protected Void doInBackground(Void... params){
+			try {
+				System.out.println("dentro de tarea sin iniciar");
+		        doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
+				System.out.println("dentro de tarea justo al acabar");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return null;
+		} 
+		
+		@Override
+		protected void onPostExecute(Void param) {
+			extraerFixtures();
+			
+		    fragment.anyadirDatosAlListAdapter();
+			System.out.println("data actualizada");
+		}
+    }
+        
+    public void extraerFixtures(){
+    	//Document doc = Jsoup.connect("http://m.mismarcadores.com/?d="+numDia).get();
         
         Element data = doc.getElementById("score-data");
         List<TextNode> hijosTexto = data.textNodes();
@@ -72,6 +99,9 @@ public class Dia {
         	
             Element liga = h4s.select(":matchesOwn("+ligas[i]+"$)").first();
             int pos = h4s.indexOf(liga);
+            
+            //Si no encontramos el titulo de la liga, es que este dia no hay partidos de ella, y pasamos a la siguiente liga.
+            if(pos==-1) continue;
             
             //No se muy bien porque pero hay que usar el elementSiblingIndex(), en vez del siblingIndex(), ya que dan un numero diferente.
             int indexIni = h4s.get(pos).elementSiblingIndex(); //esto es equivalente a: bundesliga.elementSiblingIndex()
@@ -130,7 +160,7 @@ public class Dia {
             		pp = new PartidoPreviewLive(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z), e.text());
             	else if(e.hasClass("fin"))
             		pp = new PartidoPreviewFin(numDia, idsPartidos.get(z), ligas[i], nombres[0], nombres[1], horasPartidos.get(z), e.text());
-            	
+            	System.out.println(ligas[i]+" "+pp.getId());
             	partidos[i].add(pp);
             	partidosTotales++;
             }            

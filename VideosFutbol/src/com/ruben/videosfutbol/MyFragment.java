@@ -1,6 +1,5 @@
 package com.ruben.videosfutbol;
 
-import java.io.IOException;
 import java.util.ArrayList;
 
 import android.content.Intent;
@@ -11,7 +10,6 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import com.actionbarsherlock.app.SherlockFragment;
 
@@ -38,11 +36,7 @@ public class MyFragment extends SherlockFragment {
 		//De momento esto funciona porque solo hay 3 dias, ayer(-1), hoy(0), y mañana(1)
 		int numDia = position - 1;
 		
-		try {
-			fragment.dia = new Dia(numDia);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}		
+		fragment.dia = new Dia(fragment, numDia);		
 		
 		return fragment;
 	}
@@ -63,7 +57,9 @@ public class MyFragment extends SherlockFragment {
 		list = (ListView) rootView.findViewById(R.id.listview);
 		
 		adapter = new ListViewAdapter(getActivity());
-		anyadirDatosAlLisAdapter();
+		//Los datos al ListAdapter ya los anyadimos despues desde la clase Dia, ya que como accedemos a la web
+		//a traves de una AsyncTask puede que ejecutemos este anyadirDatos() antes de tener los datos.
+		//anyadirDatosAlListAdapter();
 		
 		list.setAdapter(adapter);
 		
@@ -78,14 +74,9 @@ public class MyFragment extends SherlockFragment {
 					case TYPE_ITEM:
 						Intent i = new Intent(getActivity(), PartidoActivity.class);
 						
-						Partido p = null;
-						try { //esta excepcion nunca va a saltar, pues ya sabemos que es TYPE_ITEM pero me obliga a ponerla
-							p = new Partido((PartidoPreview)adapter.getItem(position));
-						} catch (Exception e) {
-							e.printStackTrace();
-						}
-						
-						i.putExtra("partido", p);
+						PartidoPreview p = (PartidoPreview)adapter.getItem(position);
+												
+						i.putExtra("partidoPreview", p);
 						startActivity(i);
 	                    break;
 	                case TYPE_HEADER:
@@ -109,7 +100,7 @@ public class MyFragment extends SherlockFragment {
 	 * Vamos a meter en el ArrayList de tipo Object del ListViewAdapter "adapter", los nombres de cada liga
 	 * intercalados con sus partidos en el orden correspondiente.
 	 */
-	private void anyadirDatosAlLisAdapter(){
+	public void anyadirDatosAlListAdapter(){
 		String[] ligas = dia.getLigas();
 		ArrayList<PartidoPreview>[] partidos = dia.getPartidos();
 		

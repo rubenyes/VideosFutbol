@@ -1,14 +1,18 @@
 package com.ruben.videosfutbol;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.AttributeSet;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
 
 public class PartidoActivity extends Activity {
 	
+	private PartidoPreview ppre;
 	private Partido p;
 	
 	TextView textLocal, textVisit;
@@ -22,13 +26,28 @@ public class PartidoActivity extends Activity {
 		setContentView(R.layout.activity_partido);
 		
 		Intent i = getIntent();
-		this.p = (Partido) i.getSerializableExtra("partido");
+		this.ppre = (PartidoPreview) i.getSerializableExtra("partidoPreview");
+		this.p = new Partido(this, ppre);
 		
 		textLocal = (TextView) findViewById(R.id.textLocal);
 		textVisit = (TextView) findViewById(R.id.textVisit);
 		textFechaYhora = (TextView) findViewById(R.id.textFechaYhora);
 		textMarcador = (TextView) findViewById(R.id.textMarcador);
 		textEstadoMinuto = (TextView) findViewById(R.id.textEstadoMinuto);
+		
+		textLocal.setText(p.getLocal());
+		textVisit.setText(p.getVisit());
+		textFechaYhora.setText(p.getFechaYhora());
+		textMarcador.setText(p.getMarcador());
+		textEstadoMinuto.setText(p.getEstadoOminuto());
+	}
+	
+	public void updateView(){
+		textLocal.setText(p.getLocal());
+		textVisit.setText(p.getVisit());
+		textFechaYhora.setText(p.getFechaYhora());
+		textMarcador.setText(p.getMarcador());
+		textEstadoMinuto.setText(p.getEstadoOminuto());		
 	}
 
 	@Override
